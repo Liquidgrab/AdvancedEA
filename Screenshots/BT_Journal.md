@@ -1,4 +1,10244 @@
 # Backtest Journal
+## BT 21.07.252049
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:14:00   Current Price: 1.34206
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:15:00   Current Price: 1.34201
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:16:00   Current Price: 1.34193
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:17:00   Current Price: 1.34193
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:18:00   Current Price: 1.3419699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:19:00   Current Price: 1.34193
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:20:00   Current Price: 1.34192
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:21:00   Current Price: 1.34193
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:22:00   Current Price: 1.34189
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:23:00   Current Price: 1.34191
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:24:00   Current Price: 1.34193
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:25:00   Current Price: 1.34193
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:26:00   Current Price: 1.34198
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:27:00   Current Price: 1.342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:28:00   Current Price: 1.342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:29:00   Current Price: 1.34205
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:30:00   Current Price: 1.34211
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:31:00   Current Price: 1.3422399999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:32:00   Current Price: 1.34216
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:33:00   Current Price: 1.3422399999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:34:00   Current Price: 1.34239
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:35:00   Current Price: 1.34234
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:36:00   Current Price: 1.34256
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:37:00   Current Price: 1.34267
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:38:00   Current Price: 1.34267
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:39:00   Current Price: 1.34289
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:40:00   Current Price: 1.3429
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:41:00   Current Price: 1.34283
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:42:00   Current Price: 1.3428499999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:43:00   Current Price: 1.34298
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:44:00   Current Price: 1.34284
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:45:00   Current Price: 1.34287
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:46:00   Current Price: 1.34288
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:47:00   Current Price: 1.3430900000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:48:00   Current Price: 1.34313
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:49:00   Current Price: 1.34314
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:50:00   Current Price: 1.34302
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:51:00   Current Price: 1.34304
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:52:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:53:00   Current Price: 1.34304
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:54:00   Current Price: 1.34296
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:55:00   Current Price: 1.34297
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:56:00   Current Price: 1.34298
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:57:00   Current Price: 1.34304
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:58:00   Current Price: 1.34303
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:59:00   Current Price: 1.34303
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 01:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:00:00   Current Price: 1.34297
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Current Price: 1.343
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Hour: 2025.07.18 02:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Trades this hour: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Failed breakouts: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:02:00   Current Price: 1.34294
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:03:00   Current Price: 1.34304
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:04:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:05:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:06:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:07:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:08:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:09:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:10:00   Current Price: 1.34318
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:11:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:12:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:13:00   Current Price: 1.3432
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:14:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:15:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:16:00   Current Price: 1.34308
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:17:00   Current Price: 1.34313
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:18:00   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:19:00   Current Price: 1.34321
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:20:00   Current Price: 1.34321
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:21:00   Current Price: 1.34323
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:22:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:23:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:24:00   Current Price: 1.3431899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:25:00   Current Price: 1.3431899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:26:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:27:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:28:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:29:00   Current Price: 1.34327
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:30:00   Current Price: 1.34331
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:31:00   Current Price: 1.34331
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:32:00   Current Price: 1.34338
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:33:00   Current Price: 1.3433899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:34:00   Current Price: 1.34342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:35:00   Current Price: 1.34338
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:36:00   Current Price: 1.34337
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:37:00   Current Price: 1.34335
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:38:00   Current Price: 1.34332
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:39:00   Current Price: 1.34337
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:40:00   Current Price: 1.34341
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:41:00   Current Price: 1.3433899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:42:00   Current Price: 1.3434300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:43:00   Current Price: 1.3434599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:44:00   Current Price: 1.3433899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:45:00   Current Price: 1.34329
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:46:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:47:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:48:00   Current Price: 1.3434
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:49:00   Current Price: 1.34336
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:50:00   Current Price: 1.34335
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:51:00   Current Price: 1.34329
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:52:00   Current Price: 1.34324
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:53:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:54:00   Current Price: 1.34324
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:55:00   Current Price: 1.3432
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:56:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:57:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:58:00   Current Price: 1.34313
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:59:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 02:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:00:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Current Price: 1.34313
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Hour: 2025.07.18 03:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Trades this hour: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Failed breakouts: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:02:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:03:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:04:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:05:00   Current Price: 1.34335
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:06:00   Current Price: 1.34334
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:07:00   Current Price: 1.34349
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:08:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:09:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:10:00   Current Price: 1.3432
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:11:00   Current Price: 1.34307
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:12:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:13:00   Current Price: 1.34308
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:14:00   Current Price: 1.34301
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:15:00   Current Price: 1.3430900000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:16:00   Current Price: 1.34303
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:17:00   Current Price: 1.34311
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:18:00   Current Price: 1.34311
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:19:00   Current Price: 1.3430900000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:20:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:21:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:22:00   Current Price: 1.34328
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:23:00   Current Price: 1.34336
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:24:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:25:00   Current Price: 1.3431899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:26:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:27:00   Current Price: 1.3432
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:28:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:29:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:30:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:31:00   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:32:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:33:00   Current Price: 1.34329
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:34:00   Current Price: 1.3434
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:35:00   Current Price: 1.34345
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:36:00   Current Price: 1.34336
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:37:00   Current Price: 1.3433899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:38:00   Current Price: 1.3434599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:39:00   Current Price: 1.34347
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:40:00   Current Price: 1.34357
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:41:00   Current Price: 1.3437700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:42:00   Current Price: 1.3436
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:43:00   Current Price: 1.34355
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:44:00   Current Price: 1.3434599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:45:00   Current Price: 1.34335
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:46:00   Current Price: 1.34353
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:47:00   Current Price: 1.34342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:48:00   Current Price: 1.34341
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:49:00   Current Price: 1.34347
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:50:00   Current Price: 1.34338
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:51:00   Current Price: 1.34341
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:52:00   Current Price: 1.34349
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:53:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:54:00   Current Price: 1.34308
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:55:00   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:56:00   Current Price: 1.34284
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:57:00   Current Price: 1.3428499999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:58:00   Current Price: 1.34302
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:59:00   Current Price: 1.34314
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 03:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:00:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Current Price: 1.34328
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Hour: 2025.07.18 04:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Trades this hour: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Failed breakouts: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:02:00   Current Price: 1.34349
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:03:00   Current Price: 1.34342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:04:00   Current Price: 1.3435000000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:05:00   Current Price: 1.34342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:06:00   Current Price: 1.34335
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:07:00   Current Price: 1.34321
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:08:00   Current Price: 1.3433
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:09:00   Current Price: 1.3433
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:10:00   Current Price: 1.3434
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:11:00   Current Price: 1.34331
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:12:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:13:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:14:00   Current Price: 1.3431899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:15:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:16:00   Current Price: 1.34318
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:17:00   Current Price: 1.34304
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:18:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:19:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:20:00   Current Price: 1.34308
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:21:00   Current Price: 1.34313
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:22:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:23:00   Current Price: 1.34323
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:24:00   Current Price: 1.34322
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:25:00   Current Price: 1.34308
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:26:00   Current Price: 1.34305
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:27:00   Current Price: 1.34314
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:28:00   Current Price: 1.34304
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:29:00   Current Price: 1.34307
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:30:00   Current Price: 1.34298
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:31:00   Current Price: 1.34293
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:32:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:33:00   Current Price: 1.34304
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:34:00   Current Price: 1.34322
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:35:00   Current Price: 1.34322
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:36:00   Current Price: 1.34304
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:37:00   Current Price: 1.343
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:38:00   Current Price: 1.34305
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:39:00   Current Price: 1.34317
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:40:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:41:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:42:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:43:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:44:00   Current Price: 1.34311
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:45:00   Current Price: 1.3431199999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:46:00   Current Price: 1.34331
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:47:00   Current Price: 1.3433899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:48:00   Current Price: 1.34367
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:49:00   Current Price: 1.34379
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:50:00   Current Price: 1.34382
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:51:00   Current Price: 1.34394
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:52:00   Current Price: 1.34394
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:53:00   Current Price: 1.34402
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:54:00   Current Price: 1.34385
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:55:00   Current Price: 1.34385
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:56:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:57:00   Current Price: 1.34372
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:58:00   Current Price: 1.34372
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:59:00   Current Price: 1.34356
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 04:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:00:00   Current Price: 1.34342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Current Price: 1.3434599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Hour: 2025.07.18 05:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Trades this hour: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Failed breakouts: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:02:00   Current Price: 1.34332
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:03:00   Current Price: 1.34324
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:04:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:05:00   Current Price: 1.34314
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:06:00   Current Price: 1.34303
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:07:00   Current Price: 1.34302
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:08:00   Current Price: 1.34293
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:09:00   Current Price: 1.3428499999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:10:00   Current Price: 1.34293
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:11:00   Current Price: 1.34303
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:12:00   Current Price: 1.34302
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:13:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:14:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:15:00   Current Price: 1.34324
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:16:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:17:00   Current Price: 1.34331
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:18:00   Current Price: 1.34334
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:19:00   Current Price: 1.34332
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:20:00   Current Price: 1.3434
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:21:00   Current Price: 1.34335
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:22:00   Current Price: 1.34345
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:23:00   Current Price: 1.34353
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:24:00   Current Price: 1.34342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:25:00   Current Price: 1.34352
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:26:00   Current Price: 1.34352
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:27:00   Current Price: 1.34364
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:28:00   Current Price: 1.34363
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:29:00   Current Price: 1.3436
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:30:00   Current Price: 1.34367
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:31:00   Current Price: 1.34371
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:32:00   Current Price: 1.34368
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:33:00   Current Price: 1.34366
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:34:00   Current Price: 1.34363
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:35:00   Current Price: 1.34359
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:36:00   Current Price: 1.34368
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:37:00   Current Price: 1.34381
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:38:00   Current Price: 1.34387
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:39:00   Current Price: 1.3437999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:40:00   Current Price: 1.34376
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:41:00   Current Price: 1.34385
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:42:00   Current Price: 1.34382
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:43:00   Current Price: 1.34368
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:44:00   Current Price: 1.34366
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:45:00   Current Price: 1.34363
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:46:00   Current Price: 1.34376
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:47:00   Current Price: 1.34378
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:48:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:49:00   Current Price: 1.34371
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:50:00   Current Price: 1.34368
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:51:00   Current Price: 1.34376
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:52:00   Current Price: 1.34391
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:53:00   Current Price: 1.34386
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:54:00   Current Price: 1.34383
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:55:00   Current Price: 1.34383
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:56:00   Current Price: 1.3437700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:57:00   Current Price: 1.34383
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:58:00   Current Price: 1.34386
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:59:00   Current Price: 1.34378
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 05:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:00:00   Current Price: 1.34374
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Hour: 2025.07.18 06:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Trades this hour: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Failed breakouts: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:02:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:03:00   Current Price: 1.3437999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:04:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:05:00   Current Price: 1.34371
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:06:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:07:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:08:00   Current Price: 1.34376
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:09:00   Current Price: 1.34363
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:10:00   Current Price: 1.34362
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:11:00   Current Price: 1.34357
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:12:00   Current Price: 1.34365
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:13:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:14:00   Current Price: 1.34372
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:15:00   Current Price: 1.34372
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:16:00   Current Price: 1.34365
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:17:00   Current Price: 1.3434599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:18:00   Current Price: 1.3435000000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:19:00   Current Price: 1.34353
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:20:00   Current Price: 1.34345
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:21:00   Current Price: 1.34353
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:22:00   Current Price: 1.34349
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:23:00   Current Price: 1.3434300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:24:00   Current Price: 1.34342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:25:00   Current Price: 1.34349
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:26:00   Current Price: 1.34342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:27:00   Current Price: 1.34334
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:28:00   Current Price: 1.3434599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:29:00   Current Price: 1.3434300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:30:00   Current Price: 1.34345
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:31:00   Current Price: 1.34355
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:32:00   Current Price: 1.34365
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:33:00   Current Price: 1.34364
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:34:00   Current Price: 1.34344
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:35:00   Current Price: 1.34336
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:36:00   Current Price: 1.34333
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:37:00   Current Price: 1.34333
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:38:00   Current Price: 1.34336
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:39:00   Current Price: 1.34327
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:40:00   Current Price: 1.34327
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:41:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:42:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:43:00   Current Price: 1.34324
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:44:00   Current Price: 1.34329
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:45:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:46:00   Current Price: 1.34327
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:47:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:48:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:49:00   Current Price: 1.34313
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:50:00   Current Price: 1.34311
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:51:00   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:52:00   Current Price: 1.34305
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:53:00   Current Price: 1.34298
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:54:00   Current Price: 1.34296
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:55:00   Current Price: 1.34293
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:56:00   Current Price: 1.34283
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:57:00   Current Price: 1.34281
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:58:00   Current Price: 1.34279
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:59:00   Current Price: 1.34294
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 06:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:00:00   Current Price: 1.34294
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Current Price: 1.34284
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Hour: 2025.07.18 07:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Trades this hour: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Failed breakouts: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:02:00   Current Price: 1.34275
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:03:00   Current Price: 1.3428499999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:04:00   Current Price: 1.34276
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:05:00   Current Price: 1.34284
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:06:00   Current Price: 1.3427799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:07:00   Current Price: 1.34276
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:08:00   Current Price: 1.3427799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:09:00   Current Price: 1.34271
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:10:00   Current Price: 1.34262
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:11:00   Current Price: 1.3425
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:12:00   Current Price: 1.34257
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:13:00   Current Price: 1.3425500000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:14:00   Current Price: 1.3425799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:15:00   Current Price: 1.34261
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:16:00   Current Price: 1.34267
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:17:00   Current Price: 1.34266
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:18:00   Current Price: 1.34264
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:19:00   Current Price: 1.34252
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:20:00   Current Price: 1.34259
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:21:00   Current Price: 1.34268
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:22:00   Current Price: 1.34267
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:23:00   Current Price: 1.34268
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:24:00   Current Price: 1.34267
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:25:00   Current Price: 1.34267
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:26:00   Current Price: 1.34265
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:27:00   Current Price: 1.34262
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:28:00   Current Price: 1.34263
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:29:00   Current Price: 1.34262
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:30:00   Current Price: 1.34261
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:31:00   Current Price: 1.3426
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:32:00   Current Price: 1.34254
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:33:00   Current Price: 1.3425500000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:34:00   Current Price: 1.34252
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:35:00   Current Price: 1.3425099999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:36:00   Current Price: 1.34245
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:37:00   Current Price: 1.34247
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:38:00   Current Price: 1.34253
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:39:00   Current Price: 1.34254
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:40:00   Current Price: 1.3425099999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:41:00   Current Price: 1.34253
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:42:00   Current Price: 1.3425099999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:43:00   Current Price: 1.34249
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:44:00   Current Price: 1.3424800000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:45:00   Current Price: 1.34246
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:46:00   Current Price: 1.34243
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:47:00   Current Price: 1.3424
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:48:00   Current Price: 1.34257
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:49:00   Current Price: 1.3425799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:50:00   Current Price: 1.34257
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:51:00   Current Price: 1.34256
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:52:00   Current Price: 1.3425799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:53:00   Current Price: 1.3425799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:54:00   Current Price: 1.34265
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:55:00   Current Price: 1.34268
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:56:00   Current Price: 1.34267
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:57:00   Current Price: 1.34262
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:58:00   Current Price: 1.34247
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:59:00   Current Price: 1.3424
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 07:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Current Price: 1.34238
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Current Price: 1.34238
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Time: 2025.07.18 08:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Checks: 1 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   RSI: 32.10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   ATR: 2.37 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   High probability session: +2
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   TOTAL SCORE: 4/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   market sell 1.23 GBPUSD.a sl: 1.34309 (1.34229 / 1.34232)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   deal #33 sell 1.23 GBPUSD.a at 1.34229 done (based on order #363)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   deal performed [#33 sell 1.23 GBPUSD.a at 1.34229]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   order performed sell 1.23 at 1.34229 [#363 sell 1.23 GBPUSD.a at 1.34229]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   CTrade::OrderSend: market sell 1.23 GBPUSD.a sl: 1.34309 [done at 1.34229]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   === TRADE EXECUTED ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Type: SELL
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Entry: 1.34229
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Stop Loss: 1.3430900000000001 (8.00000000000134 pips)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Volume: 1.23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Reason: Round Bounce
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:00   Score: 4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:30   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:30   Time: 2025.07.18 08:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:30   Checks: 10 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:30   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:30   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:30   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:30   RSI: 30.19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:00:30   ATR: 2.44 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Current Price: 1.34229
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Hour: 2025.07.18 08:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Trades this hour: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Failed breakouts: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Time: 2025.07.18 08:01
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Checks: 11 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   RSI: 30.19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:00   ATR: 2.44 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:35   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:35   Time: 2025.07.18 08:01
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:35   Checks: 45 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:35   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:35   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:35   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:35   RSI: 29.61
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:35   ATR: 2.46 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:01:35   Speed: 0.4 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:00   Current Price: 1.34229
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:05   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:05   Time: 2025.07.18 08:02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:05   Checks: 76 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:05   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:05   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:05   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:05   RSI: 29.61
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:05   ATR: 2.49 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:05   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:36   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:36   Time: 2025.07.18 08:02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:36   Checks: 92 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:36   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:36   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:36   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:36   RSI: 29.42
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:36   ATR: 2.49 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:02:36   Speed: 1.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:00   Current Price: 1.3422399999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:07   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:07   Time: 2025.07.18 08:03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:07   Checks: 104 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:07   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:07   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:07   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:07   RSI: 27.64
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:07   ATR: 2.54 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:07   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:37   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:37   Time: 2025.07.18 08:03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:37   Checks: 115 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:37   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:37   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:37   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:37   RSI: 27.98
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:03:37   ATR: 2.55 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:00   Current Price: 1.34216
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:21   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:21   Time: 2025.07.18 08:04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:21   Checks: 123 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:21   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:21   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:21   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:21   RSI: 27.98
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:21   ATR: 2.56 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:21   Speed: 0.4 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:51   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:51   Time: 2025.07.18 08:04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:51   Checks: 140 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:51   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:51   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:51   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:51   RSI: 27.47
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:51   ATR: 2.56 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:04:51   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:00   Current Price: 1.34215
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:08   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:08   Current Price: 1.34215
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:08   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:08   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:22   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:22   Time: 2025.07.18 08:05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:22   Checks: 147 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:22   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:22   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:22   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:22   RSI: 28.11
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:22   ATR: 2.34 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:22   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:56   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:56   Time: 2025.07.18 08:05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:56   Checks: 152 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:56   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:56   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:56   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:56   RSI: 30.79
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:56   ATR: 2.38 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:05:56   Speed: 0.9 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:00   Current Price: 1.34225
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:34   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:34   Time: 2025.07.18 08:06
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:34   Checks: 165 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:34   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:34   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:34   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:34   RSI: 32.88
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:34   ATR: 2.41 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:06:34   Speed: 0.4 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:00   Current Price: 1.34226
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:07   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:07   Time: 2025.07.18 08:07
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:07   Checks: 170 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:07   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:07   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:07   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:07   RSI: 32.88
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:07   ATR: 2.43 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:07   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:41   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:41   Time: 2025.07.18 08:07
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:41   Checks: 175 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:41   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:41   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:41   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:41   RSI: 34.85
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:41   ATR: 2.45 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:07:41   Speed: 0.8 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:00   Current Price: 1.3423
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:14   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:14   Time: 2025.07.18 08:08
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:14   Checks: 203 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:14   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:14   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:14   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:14   RSI: 35.60
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:14   ATR: 2.48 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:45   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:45   Time: 2025.07.18 08:08
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:45   Checks: 205 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:45   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:45   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:45   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:45   RSI: 35.23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:45   ATR: 2.48 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:08:45   Speed: 0.7 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:00   Current Price: 1.3423
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:25   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:25   Time: 2025.07.18 08:09
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:25   Checks: 219 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:25   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:25   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:25   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:25   RSI: 33.28
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:25   ATR: 2.48 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:09:25   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   Current Price: 1.34231
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   Time: 2025.07.18 08:10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   Checks: 222 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   RSI: 34.46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   ATR: 2.26 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:00   Speed: 0.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:13   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:13   Current Price: 1.3423
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:13   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:13   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:30   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:30   Time: 2025.07.18 08:10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:30   Checks: 234 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:30   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:30   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:30   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:30   RSI: 34.46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:30   ATR: 2.29 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:10:30   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   Current Price: 1.3422
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   Time: 2025.07.18 08:11
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   Checks: 260 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   RSI: 32.21
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   ATR: 2.40 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:00   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:34   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:34   Time: 2025.07.18 08:11
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:34   Checks: 276 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:34   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:34   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:34   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:34   RSI: 32.41
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:34   ATR: 2.40 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:11:34   Speed: 0.7 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:00   Current Price: 1.34218
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:06   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:06   Time: 2025.07.18 08:12
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:06   Checks: 284 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:06   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:06   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:06   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:06   RSI: 31.84
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:06   ATR: 2.40 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:06   Speed: 1.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:37   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:37   Time: 2025.07.18 08:12
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:37   Checks: 295 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:37   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:37   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:37   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:37   RSI: 32.02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:37   ATR: 2.40 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:12:37   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:00   Current Price: 1.3421699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:08   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:08   Time: 2025.07.18 08:13
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:08   Checks: 309 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:08   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:08   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:08   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:08   RSI: 31.84
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:08   ATR: 2.40 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:42   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:42   Time: 2025.07.18 08:13
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:42   Checks: 325 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:42   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:42   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:42   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:42   RSI: 31.84
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:42   ATR: 2.42 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:13:42   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:00   Current Price: 1.3421699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:18   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:18   Time: 2025.07.18 08:14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:18   Checks: 337 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:18   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:18   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:18   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:18   RSI: 31.65
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:18   ATR: 2.42 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:18   Speed: 0.3 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:49   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:49   Time: 2025.07.18 08:14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:49   Checks: 351 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:49   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:49   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:49   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:49   RSI: 31.65
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:49   ATR: 2.42 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:14:49   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:00   Current Price: 1.3421699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:14   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:14   Current Price: 1.3421699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:14   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:14   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:19   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:19   Time: 2025.07.18 08:15
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:19   Checks: 367 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:19   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:19   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:19   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:19   RSI: 30.88
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:19   ATR: 2.27 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:19   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:49   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:49   Time: 2025.07.18 08:15
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:49   Checks: 400 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:49   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:49   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:49   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:49   RSI: 34.13
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:49   ATR: 2.30 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:15:49   Speed: 0.9 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:00   Current Price: 1.34216
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:25   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:25   Time: 2025.07.18 08:16
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:25   Checks: 410 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:25   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:25   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:25   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:25   RSI: 31.65
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:16:25   ATR: 2.30 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   Current Price: 1.34218
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   Time: 2025.07.18 08:17
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   Checks: 418 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   RSI: 32.08
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   ATR: 2.30 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:00   Speed: 0.6 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:30   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:30   Time: 2025.07.18 08:17
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:30   Checks: 429 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:30   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:30   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:30   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:30   RSI: 31.45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:30   ATR: 2.30 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:17:30   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   Current Price: 1.34219
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   Time: 2025.07.18 08:18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   Checks: 435 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   RSI: 32.50
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   ATR: 2.30 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:00   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:31   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:31   Time: 2025.07.18 08:18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:31   Checks: 459 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:31   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:31   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:31   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:31   RSI: 31.65
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:18:31   ATR: 2.30 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:00   Current Price: 1.3422100000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:02   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:02   Time: 2025.07.18 08:19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:02   Checks: 470 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:02   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:02   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:02   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:02   RSI: 33.73
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:02   ATR: 2.30 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:40   Time: 2025.07.18 08:19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:40   Checks: 479 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:40   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:40   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:40   RSI: 31.65
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:40   ATR: 2.30 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:19:40   Speed: 0.3 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:00   Current Price: 1.34209
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:10   Time: 2025.07.18 08:20
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:10   Checks: 507 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:10   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:10   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:10   RSI: 30.14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:10   ATR: 2.19 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:10   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:18   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:18   Current Price: 1.34208
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:18   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:18   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:40   Time: 2025.07.18 08:20
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:40   Checks: 525 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:40   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:40   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:40   RSI: 29.02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:40   ATR: 2.19 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:20:40   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:00   Current Price: 1.34207
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:11   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:11   Time: 2025.07.18 08:21
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:11   Checks: 561 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:11   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:11   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:11   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:11   RSI: 31.46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:11   ATR: 2.24 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:41   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:41   Time: 2025.07.18 08:21
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:41   Checks: 602 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:41   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:41   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:41   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:41   RSI: 32.32
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:41   ATR: 2.26 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:21:41   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:00   Current Price: 1.3421
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:11   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:11   Time: 2025.07.18 08:22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:11   Checks: 622 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:11   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:11   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:11   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:11   RSI: 29.20
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:11   ATR: 2.26 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:11   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:45   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:45   Time: 2025.07.18 08:22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:45   Checks: 634 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:45   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:45   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:45   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:45   RSI: 30.14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:45   ATR: 2.26 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:22:45   Speed: 2.6 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:00   Current Price: 1.34208
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:15   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:15   Time: 2025.07.18 08:23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:15   Checks: 648 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:15   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:15   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:15   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:15   RSI: 29.75
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:15   ATR: 2.26 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:15   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:45   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:45   Time: 2025.07.18 08:23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:45   Checks: 659 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:45   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:45   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:45   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:45   RSI: 31.46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:45   ATR: 2.26 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:23:45   Speed: 4.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:00   Current Price: 1.3421699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:15   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:15   Time: 2025.07.18 08:24
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:15   Checks: 689 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:15   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:15   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:15   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:15   RSI: 31.46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:15   ATR: 2.29 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:15   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:45   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:45   Time: 2025.07.18 08:24
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:45   Checks: 704 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:45   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:45   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:45   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:45   RSI: 29.94
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:45   ATR: 2.29 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:24:45   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:00   Current Price: 1.34214
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:16   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:16   Time: 2025.07.18 08:25
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:16   Checks: 736 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:16   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:16   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:16   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:16   RSI: 32.32
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:16   ATR: 2.10 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:16   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:24   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:24   Current Price: 1.34211
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:24   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:24   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:47   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:47   Time: 2025.07.18 08:25
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:47   Checks: 762 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:47   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:47   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:47   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:47   RSI: 30.86
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:25:47   ATR: 2.14 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:00   Current Price: 1.34206
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:17   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:17   Time: 2025.07.18 08:26
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:17   Checks: 782 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:17   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:17   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:17   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:17   RSI: 31.06
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:17   ATR: 2.15 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:17   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:47   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:47   Time: 2025.07.18 08:26
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:47   Checks: 799 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:47   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:47   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:47   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:47   RSI: 30.86
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:47   ATR: 2.15 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:26:47   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:00   Current Price: 1.34201
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:18   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:18   Time: 2025.07.18 08:27
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:18   Checks: 817 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:18   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:18   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:18   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:18   RSI: 29.54
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:18   ATR: 2.18 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:18   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:48   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:48   Time: 2025.07.18 08:27
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:48   Checks: 834 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:48   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:48   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:48   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:48   RSI: 30.09
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:48   ATR: 2.20 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:27:48   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:00   Current Price: 1.3419699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:18   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:18   Time: 2025.07.18 08:28
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:18   Checks: 867 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:18   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:18   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:18   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:18   RSI: 29.72
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:18   ATR: 2.20 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:18   Speed: 18.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:49   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:49   Time: 2025.07.18 08:28
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:49   Checks: 879 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:49   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:49   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:49   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:49   RSI: 29.18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:49   ATR: 2.22 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:28:49   Speed: 15.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:00   Current Price: 1.34195
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:18   Position 363 entered Zone 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:18   position modified [#363 sell 1.23 GBPUSD.a 1.34229 sl: 1.34219]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:18   CTrade::OrderSend: modify position #363 GBPUSD.a (sl: 1.34219, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:18   Moved to BE+1.0 for ticket 363
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:20   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:20   Time: 2025.07.18 08:29
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:20   Checks: 910 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:20   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:20   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:20   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:20   RSI: 25.88
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:20   ATR: 2.40 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:54   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:54   Time: 2025.07.18 08:29
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:54   Checks: 933 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:54   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:54   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:54   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:54   RSI: 26.45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:54   ATR: 2.40 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:29:54   Speed: 3.6 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:00   Current Price: 1.3418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   Current Price: 1.34177
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   Time: 2025.07.18 08:30
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   Checks: 957 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   RSI: 25.85
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   ATR: 2.30 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:25   Speed: 0.9 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:55   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:55   Time: 2025.07.18 08:30
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:55   Checks: 1003 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:55   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:55   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:55   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:55   RSI: 25.27
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:55   ATR: 2.37 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:30:55   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:00   Current Price: 1.34174
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:27   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:27   Time: 2025.07.18 08:31
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:27   Checks: 1044 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:27   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:27   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:27   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:27   RSI: 24.04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:27   ATR: 2.38 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:27   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:57   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:57   Time: 2025.07.18 08:31
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:57   Checks: 1092 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:57   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:57   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:57   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:57   RSI: 21.92
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:57   ATR: 2.51 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:31:57   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:00   Current Price: 1.34148
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:29   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:29   Time: 2025.07.18 08:32
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:29   Checks: 1142 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:29   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:29   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:29   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:29   RSI: 23.17
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:29   ATR: 2.51 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:29   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:59   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:59   Time: 2025.07.18 08:32
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:59   Checks: 1167 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:59   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:59   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:59   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:59   RSI: 23.17
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:59   ATR: 2.51 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:32:59   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:00   Current Price: 1.34157
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:29   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:29   Time: 2025.07.18 08:33
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:29   Checks: 1213 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:29   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:29   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:29   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:29   RSI: 22.14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:29   ATR: 2.51 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:33:29   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   Current Price: 1.34147
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   Time: 2025.07.18 08:34
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   Checks: 1239 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   RSI: 22.03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   ATR: 2.51 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:00   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:30   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:30   Time: 2025.07.18 08:34
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:30   Checks: 1267 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:30   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:30   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:30   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:30   RSI: 23.29
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:30   ATR: 2.51 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:34:30   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   Current Price: 1.34161
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   Time: 2025.07.18 08:35
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   Checks: 1296 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   RSI: 24.10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   ATR: 2.45 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:00   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:27   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:27   Current Price: 1.34168
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:27   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:27   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:39   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:39   Time: 2025.07.18 08:35
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:39   Checks: 1336 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:39   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:39   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:39   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:39   RSI: 25.36
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:39   ATR: 2.51 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:35:39   Speed: 0.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:00   Current Price: 1.34166
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:10   Time: 2025.07.18 08:36
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:10   Checks: 1365 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:10   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:10   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:10   RSI: 26.19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:10   ATR: 2.52 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:10   Speed: 2.4 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:44   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:44   Time: 2025.07.18 08:36
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:44   Checks: 1386 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:44   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:44   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:44   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:44   RSI: 26.99
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:44   ATR: 2.52 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:36:44   Speed: 3.6 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:00   Current Price: 1.34165
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:14   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:14   Time: 2025.07.18 08:37
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:14   Checks: 1425 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:14   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:14   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:14   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:14   RSI: 22.15
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:14   ATR: 2.67 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:14   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:44   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:44   Time: 2025.07.18 08:37
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:44   Checks: 1456 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:44   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:44   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:44   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:44   RSI: 21.91
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:44   ATR: 2.67 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:37:44   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:00   Current Price: 1.34145
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:20   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:20   Time: 2025.07.18 08:38
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:20   Checks: 1484 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:20   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:20   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:20   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:20   RSI: 21.24
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:20   ATR: 2.74 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:20   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:50   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:50   Time: 2025.07.18 08:38
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:50   Checks: 1496 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:50   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:50   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:50   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:50   RSI: 22.03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:38:50   ATR: 2.74 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:00   Current Price: 1.34145
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:25   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:25   Time: 2025.07.18 08:39
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:25   Checks: 1519 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:25   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:25   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:25   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:25   RSI: 20.61
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:25   ATR: 2.75 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:25   Speed: 1.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:55   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:55   Time: 2025.07.18 08:39
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:55   Checks: 1536 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:55   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:55   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:55   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:55   RSI: 20.61
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:39:55   ATR: 2.75 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:00   Current Price: 1.34135
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Time: 2025.07.18 08:40
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Checks: 1552 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Nearest Resistance: 1.3425 (London High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   RSI: 20.18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   ATR: 2.64 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   High probability session: +2
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   TOTAL SCORE: 4/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   market sell 0.58 GBPUSD.a sl: 1.34301 (1.34130 / 1.34132)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   deal #34 sell 0.58 GBPUSD.a at 1.34130 done (based on order #364)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   deal performed [#34 sell 0.58 GBPUSD.a at 1.34130]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   order performed sell 0.58 at 1.34130 [#364 sell 0.58 GBPUSD.a at 1.34130]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   CTrade::OrderSend: market sell 0.58 GBPUSD.a sl: 1.34301 [done at 1.34130]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   === TRADE EXECUTED ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Type: SELL
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Entry: 1.3413
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Stop Loss: 1.34301 (17.100000000001003 pips)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Volume: 0.58
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Reason: Round Bounce
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:26   Score: 4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:30   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:30   Current Price: 1.34131
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:30   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:30   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:57   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:57   Time: 2025.07.18 08:40
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:57   Checks: 1553 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:57   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:57   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:57   Nearest Resistance: 1.3425 (Yesterday High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:57   RSI: 25.40
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:40:57   ATR: 2.70 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:00   Current Price: 1.34142
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:29   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:29   Time: 2025.07.18 08:41
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:29   Checks: 1554 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:29   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:29   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:29   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:29   RSI: 29.97
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:41:29   ATR: 2.79 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   Current Price: 1.3415599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   Time: 2025.07.18 08:42
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   Checks: 1588 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   RSI: 28.62
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:00   ATR: 2.79 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:30   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:30   Time: 2025.07.18 08:42
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:30   Checks: 1609 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:30   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:30   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:30   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:30   RSI: 30.30
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:30   ATR: 2.84 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:42:30   Speed: 18.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   Current Price: 1.34168
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   Time: 2025.07.18 08:43
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   Checks: 1645 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   RSI: 31.90
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:00   ATR: 2.86 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:32   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:32   Time: 2025.07.18 08:43
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:32   Checks: 1688 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:32   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:32   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:32   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:32   RSI: 33.72
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:32   ATR: 2.88 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:43:32   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:00   Current Price: 1.34169
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:06   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:06   Time: 2025.07.18 08:44
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:06   Checks: 1732 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:06   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:06   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:06   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:06   RSI: 33.72
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:06   ATR: 2.89 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:06   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:37   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:37   Time: 2025.07.18 08:44
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:37   Checks: 1773 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:37   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:37   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:37   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:37   RSI: 36.01
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:37   ATR: 2.95 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:44:37   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   Current Price: 1.3417
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   Exit: Reversal signal
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   market buy 1.23 GBPUSD.a, close #363 (1.34170 / 1.34170)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   deal #35 buy 1.23 GBPUSD.a at 1.34170 done (based on order #365)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   deal performed [#35 buy 1.23 GBPUSD.a at 1.34170]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   order performed buy 1.23 at 1.34170 [#365 buy 1.23 GBPUSD.a at 1.34170]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   CTrade::OrderSend: market buy 1.23 position #363 GBPUSD.a [done at 1.34170]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:00   Position closed: 363
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:07   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:07   Time: 2025.07.18 08:45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:07   Checks: 1794 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:07   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:07   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:07   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:07   RSI: 33.77
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:07   ATR: 2.83 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:31   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:31   Current Price: 1.34169
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:31   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:31   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:37   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:37   Time: 2025.07.18 08:45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:37   Checks: 1820 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:37   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:37   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:37   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:37   RSI: 32.96
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:37   ATR: 2.84 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:45:37   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:00   Current Price: 1.3416299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:07   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:07   Time: 2025.07.18 08:46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:07   Checks: 1895 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:07   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:07   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:07   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:07   RSI: 31.45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:07   ATR: 2.91 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:07   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:37   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:37   Time: 2025.07.18 08:46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:37   Checks: 1929 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:37   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:37   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:37   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:37   RSI: 31.89
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:37   ATR: 2.91 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:46:37   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:00   Current Price: 1.34158
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:15   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:15   Time: 2025.07.18 08:47
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:15   Checks: 1962 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:15   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:15   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:15   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:15   RSI: 31.74
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:15   ATR: 2.96 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:46   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:46   Time: 2025.07.18 08:47
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:46   Checks: 1985 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:46   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:46   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:46   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:46   RSI: 31.45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:46   ATR: 2.96 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:47:46   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:00   Current Price: 1.34158
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:16   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:16   Time: 2025.07.18 08:48
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:16   Checks: 2010 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:16   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:16   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:16   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:16   RSI: 32.65
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:16   ATR: 2.96 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:16   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:46   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:46   Time: 2025.07.18 08:48
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:46   Checks: 2046 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:46   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:46   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:46   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:46   RSI: 35.62
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:46   ATR: 3.05 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:48:46   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:00   Current Price: 1.34176
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:16   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:16   Time: 2025.07.18 08:49
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:16   Checks: 2066 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:16   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:16   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:16   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:16   RSI: 35.02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:16   ATR: 3.05 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:16   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:49   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:49   Time: 2025.07.18 08:49
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:49   Checks: 2080 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:49   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:49   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:49   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:49   RSI: 34.71
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:49   ATR: 3.05 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:49:49   Speed: 0.8 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:00   Current Price: 1.34177
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:19   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:19   Time: 2025.07.18 08:50
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:19   Checks: 2110 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:19   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:19   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:19   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:19   RSI: 38.13
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:19   ATR: 3.04 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:19   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:32   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:32   Current Price: 1.34183
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:32   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:32   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:50   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:50   Time: 2025.07.18 08:50
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:50   Checks: 2156 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:50   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:50   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:50   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:50   RSI: 37.22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:50   ATR: 3.08 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:50:50   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:00   Current Price: 1.34179
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:24   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:24   Time: 2025.07.18 08:51
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:24   Checks: 2179 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:24   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:24   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:24   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:24   RSI: 37.22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:24   ATR: 3.08 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:24   Speed: 0.9 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:56   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:56   Time: 2025.07.18 08:51
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:56   Checks: 2195 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:56   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:56   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:56   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:56   RSI: 34.97
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:56   ATR: 3.08 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:51:56   Speed: 0.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:00   Current Price: 1.34175
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:26   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:26   Time: 2025.07.18 08:52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:26   Checks: 2202 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:26   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:26   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:26   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:26   RSI: 34.97
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:26   ATR: 3.08 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:26   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:56   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:56   Time: 2025.07.18 08:52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:56   Checks: 2212 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:56   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:56   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:56   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:56   RSI: 34.97
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:56   ATR: 3.09 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:52:56   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:00   Current Price: 1.34175
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:26   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:26   Time: 2025.07.18 08:53
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:26   Checks: 2256 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:26   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:26   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:26   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:26   RSI: 33.30
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:26   ATR: 3.24 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:26   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:56   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:56   Time: 2025.07.18 08:53
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:56   Checks: 2272 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:56   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:56   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:56   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:56   RSI: 33.14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:56   ATR: 3.24 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:53:56   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:00   Current Price: 1.34164
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:26   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:26   Time: 2025.07.18 08:54
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:26   Checks: 2297 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:26   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:26   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:26   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:26   RSI: 34.45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:26   ATR: 3.24 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:26   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:59   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:59   Time: 2025.07.18 08:54
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:59   Checks: 2325 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:59   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:59   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:59   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:59   RSI: 34.79
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:59   ATR: 3.24 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:54:59   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:00   Current Price: 1.34174
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:32   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:32   Time: 2025.07.18 08:55
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:32   Checks: 2357 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:32   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:32   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:32   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:32   RSI: 31.73
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:32   ATR: 3.14 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:32   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:33   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:33   Current Price: 1.3415599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:33   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:55:33   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:00   Current Price: 1.34151
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:04   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:04   Time: 2025.07.18 08:56
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:04   Checks: 2375 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:04   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:04   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:04   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:04   RSI: 30.97
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:04   ATR: 3.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:34   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:34   Time: 2025.07.18 08:56
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:34   Checks: 2411 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:34   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:34   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:34   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:34   RSI: 31.89
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:56:34   ATR: 3.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:00   Current Price: 1.3415599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:04   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:04   Time: 2025.07.18 08:57
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:04   Checks: 2454 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:04   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:04   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:04   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:04   RSI: 32.53
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:04   ATR: 3.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:04   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:35   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:35   Time: 2025.07.18 08:57
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:35   Checks: 2483 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:35   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:35   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:35   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:35   RSI: 33.19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:35   ATR: 3.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:57:35   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:00   Current Price: 1.34158
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:05   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:05   Time: 2025.07.18 08:58
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:05   Checks: 2505 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:05   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:05   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:05   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:05   RSI: 31.73
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:05   ATR: 3.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:05   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:41   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:41   Time: 2025.07.18 08:58
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:41   Checks: 2536 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:41   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:41   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:41   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:41   RSI: 31.73
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:41   ATR: 3.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:58:41   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:12   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:12   Time: 2025.07.18 08:59
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:12   Checks: 2578 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:12   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:12   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:12   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:12   RSI: 32.05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:12   ATR: 3.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:12   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:42   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:42   Time: 2025.07.18 08:59
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:42   Checks: 2599 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:42   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:42   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:42   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:42   RSI: 32.05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:42   ATR: 3.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 08:59:42   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:00   Current Price: 1.34161
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:12   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:12   Time: 2025.07.18 09:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:12   Checks: 2671 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:12   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:12   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:12   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:12   RSI: 31.51
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:12   ATR: 3.26 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:12   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:34   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:34   Current Price: 1.34147
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:34   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:34   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:48   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:48   Time: 2025.07.18 09:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:48   Checks: 2714 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:48   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:48   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:48   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:48   RSI: 30.55
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:48   ATR: 3.26 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:00:48   Speed: 0.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Current Price: 1.34141
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Hour: 2025.07.18 09:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Trades this hour: 2
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Failed breakouts: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:18   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:18   Time: 2025.07.18 09:01
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:18   Checks: 2767 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:18   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:18   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:18   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:18   RSI: 30.70
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:18   ATR: 3.29 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:18   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:48   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:48   Time: 2025.07.18 09:01
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:48   Checks: 2822 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:48   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:48   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:48   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:48   RSI: 28.94
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:48   ATR: 3.31 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:01:48   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:00   Current Price: 1.34142
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:18   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:18   Time: 2025.07.18 09:02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:18   Checks: 2870 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:18   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:18   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:18   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:18   RSI: 30.24
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:18   ATR: 3.31 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:18   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:48   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:48   Time: 2025.07.18 09:02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:48   Checks: 2896 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:48   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:48   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:48   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:48   RSI: 27.48
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:48   ATR: 3.38 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:02:48   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:00   Current Price: 1.34122
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:18   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:18   Time: 2025.07.18 09:03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:18   Checks: 2959 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:18   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:18   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:18   Nearest Resistance: 1.3425 (Yesterday High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:18   RSI: 25.51
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:18   ATR: 3.53 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:18   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:49   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:49   Time: 2025.07.18 09:03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:49   Checks: 2998 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:49   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:49   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:49   Nearest Resistance: 1.3425 (Yesterday High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:49   RSI: 26.52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:49   ATR: 3.53 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:03:49   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:00   Current Price: 1.34118
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:20   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:20   Time: 2025.07.18 09:04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:20   Checks: 3047 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:20   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:20   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:20   Nearest Resistance: 1.3425 (Yesterday High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:20   RSI: 27.48
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:20   ATR: 3.53 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:20   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:51   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:51   Time: 2025.07.18 09:04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:51   Checks: 3083 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:51   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:51   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:51   Nearest Resistance: 1.3425 (Yesterday High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:51   RSI: 26.75
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:51   ATR: 3.53 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:04:51   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:00   Current Price: 1.34119
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:21   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:21   Time: 2025.07.18 09:05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:21   Checks: 3110 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:21   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:21   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:21   Nearest Resistance: 1.3425 (Yesterday High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:21   RSI: 26.86
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:21   ATR: 3.24 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:21   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:37   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:37   Current Price: 1.34111
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:37   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:37   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:52   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:52   Time: 2025.07.18 09:05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:52   Checks: 3160 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:52   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:52   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:52   Nearest Resistance: 1.3425 (Yesterday High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:52   RSI: 26.52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:52   ATR: 3.29 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:05:52   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:00   Current Price: 1.34117
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:24   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:24   Time: 2025.07.18 09:06
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:24   Checks: 3178 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:24   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:24   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:24   Nearest Resistance: 1.3425 (Yesterday High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:24   RSI: 26.52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:24   ATR: 3.29 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:24   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:54   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:54   Time: 2025.07.18 09:06
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:54   Checks: 3225 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:54   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:54   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:54   Nearest Resistance: 1.3425 (Yesterday High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:54   RSI: 31.99
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:54   ATR: 3.42 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:06:54   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:00   Current Price: 1.34135
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:24   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:24   Time: 2025.07.18 09:07
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:24   Checks: 3316 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:24   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:24   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:24   Nearest Resistance: 1.3425 (London High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:24   RSI: 31.99
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:24   ATR: 3.42 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:24   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:54   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:54   Time: 2025.07.18 09:07
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:54   Checks: 3414 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:54   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:54   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:54   Nearest Resistance: 1.3425 (London High)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:54   RSI: 36.71
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:54   ATR: 3.51 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:07:54   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:00   Current Price: 1.3415300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:24   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:24   Time: 2025.07.18 09:08
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:24   Checks: 3468 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:24   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:24   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:24   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:24   RSI: 37.22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:24   ATR: 3.54 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:24   Speed: 0.6 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:54   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:54   Time: 2025.07.18 09:08
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:54   Checks: 3530 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:54   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:54   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:54   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:54   RSI: 34.58
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:54   ATR: 3.54 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:08:54   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:00   Current Price: 1.34145
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:24   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:24   Time: 2025.07.18 09:09
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:24   Checks: 3579 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:24   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:24   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:24   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:24   RSI: 36.45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:24   ATR: 3.56 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:24   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:54   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:54   Time: 2025.07.18 09:09
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:54   Checks: 3622 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:54   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:54   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:54   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:54   RSI: 35.12
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:54   ATR: 3.56 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:09:54   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:00   Current Price: 1.34145
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:26   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:26   Time: 2025.07.18 09:10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:26   Checks: 3664 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:26   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:26   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:26   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:26   RSI: 35.17
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:26   ATR: 3.43 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:26   Speed: 1.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:38   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:38   Current Price: 1.34146
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:38   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:38   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:56   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:56   Time: 2025.07.18 09:10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:56   Checks: 3677 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:56   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:56   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:56   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:56   RSI: 35.46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:56   ATR: 3.43 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:10:56   Speed: 0.3 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:00   Current Price: 1.3415
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:26   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:26   Time: 2025.07.18 09:11
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:26   Checks: 3753 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:26   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:26   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:26   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:26   RSI: 36.03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:26   ATR: 3.48 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:26   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:56   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:56   Time: 2025.07.18 09:11
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:56   Checks: 3817 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:56   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:56   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:56   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:56   RSI: 36.31
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:56   ATR: 3.48 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:11:56   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:00   Current Price: 1.34151
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:26   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:26   Time: 2025.07.18 09:12
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:26   Checks: 3841 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:26   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:26   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:26   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:26   RSI: 36.59
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:26   ATR: 3.48 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:26   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:56   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:56   Time: 2025.07.18 09:12
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:56   Checks: 3894 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:56   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:56   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:56   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:56   RSI: 36.03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:56   ATR: 3.56 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:12:56   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:00   Current Price: 1.34148
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:26   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:26   Time: 2025.07.18 09:13
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:26   Checks: 3940 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:26   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:26   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:26   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:26   RSI: 37.69
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:26   ATR: 3.56 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:26   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:58   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:58   Time: 2025.07.18 09:13
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:58   Checks: 3972 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:58   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:58   Nearest Support: 1.34 (Round 13400)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:58   Nearest Resistance: 1.3425 (Quarter 13425)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:58   RSI: 37.69
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:13:58   ATR: 3.56 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:00   Current Price: 1.3415599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:30   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:30   Time: 2025.07.18 09:14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:30   Checks: 4034 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:30   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:30   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:30   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:30   RSI: 38.22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:30   ATR: 3.56 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:14:30   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   Current Price: 1.34169
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   Time: 2025.07.18 09:15
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   Checks: 4112 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   RSI: 41.01
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   ATR: 3.44 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:00   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:30   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:30   Time: 2025.07.18 09:15
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:30   Checks: 4191 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:30   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:30   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:30   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:30   RSI: 40.83
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:30   ATR: 3.47 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:30   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:39   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:39   Current Price: 1.34159
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:39   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:15:39   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   Current Price: 1.34168
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   Time: 2025.07.18 09:16
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   Checks: 4257 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   RSI: 40.83
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   ATR: 3.55 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:00   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:31   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:31   Time: 2025.07.18 09:16
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:31   Checks: 4308 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:31   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:31   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:31   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:31   RSI: 43.74
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:31   ATR: 3.62 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:16:31   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:00   Current Price: 1.3418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:01   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:01   Time: 2025.07.18 09:17
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:01   Checks: 4358 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:01   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:01   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:01   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:01   RSI: 44.67
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:01   ATR: 3.64 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:01   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:34   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:34   Time: 2025.07.18 09:17
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:34   Checks: 4417 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:34   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:34   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:34   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:34   RSI: 45.35
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:34   ATR: 3.69 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:17:34   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:00   Current Price: 1.34185
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:04   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:04   Time: 2025.07.18 09:18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:04   Checks: 4471 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:04   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:04   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:04   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:04   RSI: 44.90
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:04   ATR: 3.69 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:34   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:34   Time: 2025.07.18 09:18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:34   Checks: 4519 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:34   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:34   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:34   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:34   RSI: 44.90
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:34   ATR: 3.69 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:18:34   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:00   Current Price: 1.34185
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:05   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:05   Time: 2025.07.18 09:19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:05   Checks: 4549 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:05   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:05   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:05   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:05   RSI: 45.12
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:05   ATR: 3.69 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:05   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:35   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:35   Time: 2025.07.18 09:19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:35   Checks: 4583 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:35   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:35   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:35   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:35   RSI: 45.57
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:35   ATR: 3.69 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:47   Exit: Structure break
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:47   market buy 0.58 GBPUSD.a, close #364 (1.34195 / 1.34196)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:47   deal #36 buy 0.58 GBPUSD.a at 1.34196 done (based on order #366)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:47   deal performed [#36 buy 0.58 GBPUSD.a at 1.34196]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:47   order performed buy 0.58 at 1.34196 [#366 buy 0.58 GBPUSD.a at 1.34196]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:47   CTrade::OrderSend: market buy 0.58 position #364 GBPUSD.a [done at 1.34196]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:47   Position closed: 364
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   High probability session: +2
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   High speed: +2
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   TOTAL SCORE: 5/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   Loss reduction: Risk = 0.5%
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   market buy 0.48 GBPUSD.a sl: 1.34086 (1.34189 / 1.34189)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   deal #37 buy 0.48 GBPUSD.a at 1.34189 done (based on order #367)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   deal performed [#37 buy 0.48 GBPUSD.a at 1.34189]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   order performed buy 0.48 at 1.34189 [#367 buy 0.48 GBPUSD.a at 1.34189]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   CTrade::OrderSend: market buy 0.48 GBPUSD.a sl: 1.34086 [done at 1.34189]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   === TRADE EXECUTED ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   Type: BUY
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   Entry: 1.34189
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   Stop Loss: 1.34086 (10.300000000000864 pips)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   Volume: 0.48
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   Reason: Round Bounce
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:19:48   Score: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:00   Current Price: 1.34184
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:05   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:05   Time: 2025.07.18 09:20
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:05   Checks: 4592 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:05   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:05   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:05   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:05   RSI: 44.91
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:05   ATR: 3.59 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:36   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:36   Time: 2025.07.18 09:20
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:36   Checks: 4592 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:36   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:36   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:36   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:36   RSI: 45.64
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:36   ATR: 3.62 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:40   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:40   Current Price: 1.34189
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:40   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:20:40   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:00   Current Price: 1.34216
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:07   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:07   Time: 2025.07.18 09:21
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:07   Checks: 4638 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:07   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:07   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:07   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:07   RSI: 50.81
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:07   ATR: 3.83 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:07   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:38   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:38   Time: 2025.07.18 09:21
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:38   Checks: 4690 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:38   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:38   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:38   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:38   RSI: 49.61
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:38   ATR: 3.83 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:21:38   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:00   Current Price: 1.34195
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:14   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:14   Time: 2025.07.18 09:22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:14   Checks: 4736 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:14   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:14   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:14   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:14   RSI: 47.25
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:14   ATR: 3.83 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:14   Speed: 0.8 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:45   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:45   Time: 2025.07.18 09:22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:45   Checks: 4774 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:45   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:45   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:45   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:45   RSI: 44.27
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:45   ATR: 3.84 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:22:45   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:00   Current Price: 1.3418700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:15   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:15   Time: 2025.07.18 09:23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:15   Checks: 4814 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:15   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:15   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:15   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:15   RSI: 47.03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:15   ATR: 3.84 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:15   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:45   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:45   Time: 2025.07.18 09:23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:45   Checks: 4853 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:45   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:45   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:45   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:45   RSI: 45.16
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:45   ATR: 3.84 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:23:45   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:00   Current Price: 1.3418700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:15   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:15   Time: 2025.07.18 09:24
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:15   Checks: 4878 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:15   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:15   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:15   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:15   RSI: 45.64
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:15   ATR: 3.84 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:15   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:46   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:46   Time: 2025.07.18 09:24
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:46   Checks: 4896 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:46   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:46   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:46   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:46   RSI: 45.64
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:46   ATR: 3.84 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:24:46   Speed: 1.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:00   Current Price: 1.34186
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:17   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:17   Time: 2025.07.18 09:25
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:17   Checks: 4936 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:17   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:17   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:17   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:17   RSI: 44.31
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:17   ATR: 3.78 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:17   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:41   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:41   Current Price: 1.34189
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:41   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:41   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:47   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:47   Time: 2025.07.18 09:25
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:47   Checks: 4966 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:47   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:47   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:47   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:47   RSI: 46.92
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:47   ATR: 3.83 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:25:47   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:00   Current Price: 1.3418999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:19   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:19   Time: 2025.07.18 09:26
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:19   Checks: 5029 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:19   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:19   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:19   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:19   RSI: 46.18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:19   ATR: 3.86 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:19   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:50   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:50   Time: 2025.07.18 09:26
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:50   Checks: 5062 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:50   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:50   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:50   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:50   RSI: 45.16
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:50   ATR: 3.86 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:26:50   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:00   Current Price: 1.3418700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:20   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:20   Time: 2025.07.18 09:27
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:20   Checks: 5094 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:20   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:20   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:20   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:20   RSI: 44.94
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:20   ATR: 3.86 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:20   Speed: 0.9 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:50   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:50   Time: 2025.07.18 09:27
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:50   Checks: 5105 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:50   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:50   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:50   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:50   RSI: 45.67
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:27:50   ATR: 3.86 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:00   Current Price: 1.34188
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:29   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:29   Time: 2025.07.18 09:28
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:29   Checks: 5128 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:29   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:29   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:29   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:29   RSI: 45.42
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:29   ATR: 3.86 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:28:29   Speed: 0.6 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   Current Price: 1.34185
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   Time: 2025.07.18 09:29
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   Checks: 5148 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   RSI: 44.94
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   ATR: 3.86 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:00   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:30   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:30   Time: 2025.07.18 09:29
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:30   Checks: 5200 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:30   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:30   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:30   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:30   RSI: 43.50
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:29:30   ATR: 3.90 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   Current Price: 1.3418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   Time: 2025.07.18 09:30
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   Checks: 5220 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   RSI: 43.90
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   ATR: 3.75 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:00   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:32   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:32   Time: 2025.07.18 09:30
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:32   Checks: 5295 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:32   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:32   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:32   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:32   RSI: 44.73
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:32   ATR: 3.85 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:32   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:44   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:44   Current Price: 1.34181
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:44   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:30:44   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:00   Current Price: 1.34181
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:02   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:02   Time: 2025.07.18 09:31
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:02   Checks: 5322 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:02   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:02   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:02   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:02   RSI: 46.05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:02   ATR: 3.85 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:02   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:32   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:32   Time: 2025.07.18 09:31
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:32   Checks: 5392 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:32   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:32   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:32   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:32   RSI: 47.32
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:32   ATR: 3.89 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:31:32   Speed: 24.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:00   Current Price: 1.34186
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:02   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:02   Time: 2025.07.18 09:32
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:02   Checks: 5449 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:02   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:02   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:02   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:02   RSI: 45.53
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:02   ATR: 3.91 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:02   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:33   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:33   Time: 2025.07.18 09:32
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:33   Checks: 5501 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:33   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:33   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:33   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:33   RSI: 49.44
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:33   ATR: 3.94 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:32:33   Speed: 0.7 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:00   Current Price: 1.34181
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:04   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:04   Time: 2025.07.18 09:33
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:04   Checks: 5557 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:04   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:04   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:04   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:04   RSI: 44.46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:04   ATR: 3.94 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:04   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:34   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:34   Time: 2025.07.18 09:33
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:34   Checks: 5616 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:34   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:34   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:34   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:34   RSI: 45.53
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:34   ATR: 3.94 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:33:34   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:00   Current Price: 1.3418999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:06   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:06   Time: 2025.07.18 09:34
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:06   Checks: 5663 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:06   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:06   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:06   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:06   RSI: 47.80
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:06   ATR: 3.94 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:06   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:41   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:41   Time: 2025.07.18 09:34
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:41   Checks: 5722 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:41   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:41   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:41   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:41   RSI: 45.79
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:41   ATR: 3.94 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:34:41   Speed: 0.9 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:00   Current Price: 1.3418700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:11   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:11   Time: 2025.07.18 09:35
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:11   Checks: 5761 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:11   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:11   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:11   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:11   RSI: 46.35
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:11   ATR: 3.66 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:11   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:42   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:42   Time: 2025.07.18 09:35
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:42   Checks: 5809 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:42   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:42   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:42   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:42   RSI: 47.69
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:42   ATR: 3.71 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:42   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:50   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:50   Current Price: 1.3419699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:50   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:35:50   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:00   Current Price: 1.34201
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:12   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:12   Time: 2025.07.18 09:36
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:12   Checks: 5838 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:12   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:12   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:12   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:12   RSI: 51.34
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:12   ATR: 3.81 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:42   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:42   Time: 2025.07.18 09:36
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:42   Checks: 5885 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:42   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:42   Nearest Support: 1.3405166666666666 (Daily Pivot)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:42   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:42   RSI: 53.91
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:42   ATR: 3.89 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:36:42   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:00   Current Price: 1.3423
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:13   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:13   Time: 2025.07.18 09:37
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:13   Checks: 5928 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:13   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:13   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:13   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:13   RSI: 56.95
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:13   ATR: 4.01 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:13   Speed: 4.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:15   Position 367 entered Zone 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:15   position modified [#367 buy 0.48 GBPUSD.a 1.34189 sl: 1.34199]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:15   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34199, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:15   Moved to BE+1.0 for ticket 367
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:43   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:43   Time: 2025.07.18 09:37
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:43   Checks: 5983 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:43   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:43   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:43   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:43   RSI: 55.48
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:43   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:37:43   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:00   Current Price: 1.34231
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:19   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:19   Time: 2025.07.18 09:38
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:19   Checks: 6015 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:19   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:19   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:19   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:19   RSI: 56.23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:19   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:19   Speed: 0.8 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:49   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:49   Time: 2025.07.18 09:38
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:49   Checks: 6057 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:49   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:49   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:49   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:49   RSI: 56.04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:49   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:38:49   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:00   Current Price: 1.34232
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:19   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:19   Time: 2025.07.18 09:39
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:19   Checks: 6095 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:19   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:19   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:19   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:19   RSI: 55.48
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:19   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:51   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:51   Time: 2025.07.18 09:39
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:51   Checks: 6115 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:51   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:51   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:51   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:51   RSI: 56.04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:51   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:39:51   Speed: 4.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:00   Current Price: 1.34231
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:21   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:21   Time: 2025.07.18 09:40
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:21   Checks: 6147 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:21   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:21   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:21   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:21   RSI: 54.38
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:21   ATR: 3.88 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   Current Price: 1.3422
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   Time: 2025.07.18 09:40
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   Checks: 6254 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   RSI: 53.20
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:40:51   ATR: 3.93 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:00   Current Price: 1.34215
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:21   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:21   Time: 2025.07.18 09:41
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:21   Checks: 6323 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:21   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:21   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:21   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:21   RSI: 56.26
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:21   ATR: 3.95 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:21   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:51   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:51   Time: 2025.07.18 09:41
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:51   Checks: 6353 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:51   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:51   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:51   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:51   RSI: 55.86
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:41:51   ATR: 3.95 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:00   Current Price: 1.3423
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:24   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:24   Time: 2025.07.18 09:42
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:24   Checks: 6413 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:24   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:24   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:24   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:24   RSI: 56.45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:24   ATR: 3.95 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:24   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:54   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:54   Time: 2025.07.18 09:42
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:54   Checks: 6473 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:54   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:54   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:54   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:54   RSI: 58.32
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:54   ATR: 4.02 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:42:54   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:00   Current Price: 1.34243
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:24   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:24   Time: 2025.07.18 09:43
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:24   Checks: 6516 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:24   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:24   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:24   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:24   RSI: 58.85
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:24   ATR: 4.04 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:24   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:54   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:54   Time: 2025.07.18 09:43
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:54   Checks: 6557 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:54   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:54   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:54   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:54   RSI: 55.61
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:54   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:43:54   Speed: 0.9 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:00   Current Price: 1.34231
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:25   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:25   Time: 2025.07.18 09:44
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:25   Checks: 6584 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:25   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:25   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:25   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:25   RSI: 57.41
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:25   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:25   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:55   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:55   Time: 2025.07.18 09:44
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:55   Checks: 6608 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:55   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:55   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:55   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:55   RSI: 57.59
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:55   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:44:55   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:00   Current Price: 1.34239
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:25   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:25   Time: 2025.07.18 09:45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:25   Checks: 6653 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:25   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:25   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:25   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:25   RSI: 59.87
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:25   ATR: 3.86 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:25   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:52   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:52   Current Price: 1.34239
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:52   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:52   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:55   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:55   Time: 2025.07.18 09:45
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:55   Checks: 6711 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:55   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:55   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:55   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:55   RSI: 58.20
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:55   ATR: 3.95 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:45:55   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:00   Current Price: 1.34241
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:26   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:26   Time: 2025.07.18 09:46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:26   Checks: 6754 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:26   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:26   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:26   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:26   RSI: 57.41
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:26   ATR: 3.95 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:26   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:57   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:57   Time: 2025.07.18 09:46
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:57   Checks: 6787 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:57   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:57   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:57   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:57   RSI: 60.05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:57   ATR: 3.95 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:46:57   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:00   Current Price: 1.3425
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Time: 2025.07.18 09:47
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Checks: 6841 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   RSI: 61.74
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   ATR: 3.99 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   High probability session: +2
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   TOTAL SCORE: 4/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Loss reduction: Risk = 0.5%
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   market buy 0.27 GBPUSD.a sl: 1.34086 (1.34270 / 1.34271)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   deal #38 buy 0.27 GBPUSD.a at 1.34271 done (based on order #368)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   deal performed [#38 buy 0.27 GBPUSD.a at 1.34271]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   order performed buy 0.27 at 1.34271 [#368 buy 0.27 GBPUSD.a at 1.34271]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   CTrade::OrderSend: market buy 0.27 GBPUSD.a sl: 1.34086 [done at 1.34271]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   === TRADE EXECUTED ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Type: BUY
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Entry: 1.34271
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Stop Loss: 1.34086 (18.500000000001293 pips)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Volume: 0.27
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Reason: Round Bounce
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:47:29   Score: 4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   Current Price: 1.34264
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   Time: 2025.07.18 09:48
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   Checks: 6844 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   RSI: 61.90
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:00   Speed: 18.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:30   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:30   Time: 2025.07.18 09:48
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:30   Checks: 6849 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:30   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:30   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:30   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:30   RSI: 62.07
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:30   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:48:30   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   Current Price: 1.34263
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   Time: 2025.07.18 09:49
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   Checks: 6908 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   RSI: 61.74
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:00   Speed: 0.9 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:32   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:32   Time: 2025.07.18 09:49
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:32   Checks: 6951 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:32   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:32   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:32   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:32   RSI: 61.90
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:49:32   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:00   Current Price: 1.34269
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:02   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:02   Time: 2025.07.18 09:50
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:02   Checks: 6983 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:02   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:02   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:02   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:02   RSI: 63.18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:02   ATR: 3.72 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:02   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:34   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:34   Time: 2025.07.18 09:50
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:34   Checks: 7040 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:34   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:34   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:34   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:34   RSI: 63.51
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:34   ATR: 3.76 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:53   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:53   Current Price: 1.34275
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:53   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:50:53   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:00   Current Price: 1.3427799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:11   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:11   Time: 2025.07.18 09:51
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:11   Checks: 7069 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:11   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:11   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:11   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:11   RSI: 63.82
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:11   ATR: 3.78 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:41   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:41   Time: 2025.07.18 09:51
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:41   Checks: 7092 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:41   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:41   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:41   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:41   RSI: 63.82
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:51:41   ATR: 3.78 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:00   Current Price: 1.34273
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   Position 367 entered Zone 2
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   market sell 0.24 GBPUSD.a, close #367 (1.34289 / 1.34290)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   deal #39 sell 0.24 GBPUSD.a at 1.34289 done (based on order #369)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   deal performed [#39 sell 0.24 GBPUSD.a at 1.34289]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   order performed sell 0.24 at 1.34289 [#369 sell 0.24 GBPUSD.a at 1.34289]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   CTrade::OrderSend: market sell 0.24 position #367 GBPUSD.a [done at 1.34289]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   Partial close 50.0% of position
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34240]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34240, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:09   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   Time: 2025.07.18 09:52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   Checks: 7134 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   RSI: 66.02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   ATR: 3.86 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34241]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34241, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:12   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:14   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34242]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:14   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34242, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:14   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:30   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34243]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:30   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34243, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:30   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:30   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34244]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:30   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34244, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:30   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:31   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34246]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:31   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34246, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:31   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:42   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:42   Time: 2025.07.18 09:52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:42   Checks: 7194 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:42   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:42   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:42   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:42   RSI: 66.30
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:42   ATR: 3.89 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:42   Speed: 30.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:47   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34248]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:47   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34248, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:47   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:58   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34249]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:58   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34249, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:58   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:58   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34250]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:58   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34250, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:58   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:58   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34251]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:58   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34251, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:52:58   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:00   Current Price: 1.34299
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:01   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34252]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:01   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34252, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:01   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:02   failed modify #367 buy 0.24 GBPUSD.a sl: 1.34252, tp: 0.00000 -> sl: 1.34252, tp: 0.00000 [Invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:02   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34252, tp: 0.00000) [invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:03   failed modify #367 buy 0.24 GBPUSD.a sl: 1.34252, tp: 0.00000 -> sl: 1.34252, tp: 0.00000 [Invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:03   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34252, tp: 0.00000) [invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:05   failed modify #367 buy 0.24 GBPUSD.a sl: 1.34252, tp: 0.00000 -> sl: 1.34252, tp: 0.00000 [Invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:05   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34252, tp: 0.00000) [invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:06   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34253]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:06   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34253, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:06   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:15   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:15   Time: 2025.07.18 09:53
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:15   Checks: 7255 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:15   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:15   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:15   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:15   RSI: 66.83
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:15   ATR: 3.94 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:15   Speed: 1.5 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:31   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34257]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:31   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34257, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:31   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:32   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34258]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:32   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34258, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:32   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:32   failed modify #367 buy 0.24 GBPUSD.a sl: 1.34258, tp: 0.00000 -> sl: 1.34258, tp: 0.00000 [Invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:32   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34258, tp: 0.00000) [invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:32   failed modify #367 buy 0.24 GBPUSD.a sl: 1.34258, tp: 0.00000 -> sl: 1.34258, tp: 0.00000 [Invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:32   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34258, tp: 0.00000) [invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:35   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34259]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:35   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34259, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:35   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:35   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34260]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:35   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34260, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:35   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:39   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34263]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:39   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34263, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:39   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:39   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34267]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:39   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34267, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:39   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:44   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34268]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:44   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34268, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:44   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:45   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:45   Time: 2025.07.18 09:53
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:45   Checks: 7293 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:45   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:45   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:45   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:45   RSI: 68.69
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:45   ATR: 4.05 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:45   Speed: 30.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:50   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34269]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:50   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34269, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:50   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:53   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34270]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:53   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34270, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:53   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:53   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34271]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:53   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34271, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:53   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:54   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34272]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:54   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34272, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:54   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:54   Position 368 entered Zone 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:54   position modified [#368 buy 0.27 GBPUSD.a 1.34271 sl: 1.34281]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:54   CTrade::OrderSend: modify position #368 GBPUSD.a (sl: 1.34281, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:54   Moved to BE+1.0 for ticket 368
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:55   failed modify #367 buy 0.24 GBPUSD.a sl: 1.34272, tp: 0.00000 -> sl: 1.34272, tp: 0.00000 [Invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:55   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34272, tp: 0.00000) [invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:57   failed modify #367 buy 0.24 GBPUSD.a sl: 1.34272, tp: 0.00000 -> sl: 1.34272, tp: 0.00000 [Invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:57   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34272, tp: 0.00000) [invalid stops]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:58   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34273]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:58   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34273, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:53:58   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:00   Current Price: 1.34323
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:16   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:16   Time: 2025.07.18 09:54
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:16   Checks: 7352 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:16   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:16   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:16   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:16   RSI: 69.26
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:16   ATR: 4.09 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:16   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:46   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:46   Time: 2025.07.18 09:54
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:46   Checks: 7387 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:46   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:46   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:46   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:46   RSI: 69.04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:46   ATR: 4.09 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:54:46   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:00   Current Price: 1.3431199999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:16   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:16   Time: 2025.07.18 09:55
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:16   Checks: 7427 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:16   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:16   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:16   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:16   RSI: 66.29
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:16   ATR: 3.91 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:46   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:46   Time: 2025.07.18 09:55
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:46   Checks: 7484 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:46   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:46   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:46   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:46   RSI: 66.29
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:46   ATR: 3.93 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:46   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:55   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:55   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:55   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:55:55   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:00   Current Price: 1.3430900000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:16   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:16   Time: 2025.07.18 09:56
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:16   Checks: 7523 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:16   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:16   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:16   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:16   RSI: 68.41
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:16   ATR: 3.93 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:16   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:46   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:46   Time: 2025.07.18 09:56
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:46   Checks: 7590 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:46   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:46   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:46   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:46   RSI: 70.02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:46   ATR: 4.00 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:46   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:47   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34274]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:47   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34274, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:47   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:47   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34276]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:47   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34276, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:47   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:47   position modified [#367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34277]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:47   CTrade::OrderSend: modify position #367 GBPUSD.a (sl: 1.34277, tp: 0.00000) [done]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:56:47   Trailed stop to protect 5.0 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:16   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:16   Time: 2025.07.18 09:57
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:16   Checks: 7655 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:16   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:16   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:16   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:16   RSI: 67.60
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:16   ATR: 4.03 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:16   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:47   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:47   Time: 2025.07.18 09:57
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:47   Checks: 7715 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:47   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:47   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:47   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:47   RSI: 68.94
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:47   ATR: 4.03 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:57:47   Speed: 1.2 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:00   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:18   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:18   Time: 2025.07.18 09:58
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:18   Checks: 7774 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:18   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:18   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:18   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:18   RSI: 65.03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:18   ATR: 4.06 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:18   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:48   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:48   Time: 2025.07.18 09:58
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:48   Checks: 7823 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:48   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:48   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:48   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:48   RSI: 62.87
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:48   ATR: 4.16 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:58:48   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:00   Current Price: 1.34288
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:09   stop loss triggered #368 buy 0.27 GBPUSD.a 1.34271 sl: 1.34281 [#370 sell 0.27 GBPUSD.a at 1.34281]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:09   deal #40 sell 0.27 GBPUSD.a at 1.34278 done (based on order #370)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:09   deal performed [#40 sell 0.27 GBPUSD.a at 1.34278]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:09   order performed sell 0.27 at 1.34278 [#370 sell 0.27 GBPUSD.a at 1.34281]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:14   stop loss triggered #367 buy 0.24 GBPUSD.a 1.34189 sl: 1.34277 [#371 sell 0.24 GBPUSD.a at 1.34277]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:14   deal #41 sell 0.24 GBPUSD.a at 1.34277 done (based on order #371)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:14   deal performed [#41 sell 0.24 GBPUSD.a at 1.34277]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:14   order performed sell 0.24 at 1.34277 [#371 sell 0.24 GBPUSD.a at 1.34277]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:18   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:18   Time: 2025.07.18 09:59
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:18   Checks: 7930 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:18   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:18   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:18   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:18   RSI: 61.51
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:18   ATR: 4.20 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:18   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:48   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:48   Time: 2025.07.18 09:59
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:48   Checks: 8017 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:48   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:48   Nearest Support: 1.34106 (London Low)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:48   Nearest Resistance: 1.344 (Round 13440)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:48   RSI: 69.55
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:48   ATR: 4.20 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 09:59:48   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:00   Current Price: 1.34313
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:18   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:18   Time: 2025.07.18 10:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:18   Checks: 8102 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:18   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:18   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:18   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:18   RSI: 71.29
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:18   ATR: 4.10 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:18   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:48   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:48   Time: 2025.07.18 10:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:48   Checks: 8181 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:48   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:48   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:48   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:48   RSI: 71.29
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:48   ATR: 4.12 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:48   Speed: 30.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:56   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:56   Current Price: 1.34338
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:56   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:00:56   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Current Price: 1.3434
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Hour: 2025.07.18 10:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Trades this hour: 4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:00   Active positions: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:19   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:19   Time: 2025.07.18 10:01
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:19   Checks: 8231 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:19   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:19   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:19   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:19   RSI: 71.63
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:19   ATR: 4.12 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:19   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:50   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:50   Time: 2025.07.18 10:01
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:50   Checks: 8316 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:50   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:50   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:50   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:50   RSI: 71.96
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:50   ATR: 4.16 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:01:50   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:00   Current Price: 1.34329
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:21   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:21   Time: 2025.07.18 10:02
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:21   Checks: 8366 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:21   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:21   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:21   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:21   RSI: 70.71
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:02:21   ATR: 4.16 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:02   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:02   Time: 2025.07.18 10:03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:02   Checks: 8413 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:02   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:02   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:02   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:02   RSI: 70.35
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:02   ATR: 4.16 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:02   Speed: 0.4 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:32   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:32   Time: 2025.07.18 10:03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:32   Checks: 8468 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:32   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:32   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:32   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:32   RSI: 70.95
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:32   ATR: 4.16 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:03:32   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:00   Current Price: 1.34337
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:02   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:02   Time: 2025.07.18 10:04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:02   Checks: 8516 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:02   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:02   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:02   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:02   RSI: 71.96
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:02   ATR: 4.16 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:02   Speed: 9.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:32   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:32   Time: 2025.07.18 10:04
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:32   Checks: 8582 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:32   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:32   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:32   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:32   RSI: 74.08
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:32   ATR: 4.24 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:45   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:45   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:45   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:45   TOTAL SCORE: 1/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:51   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:51   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:51   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:04:51   TOTAL SCORE: 1/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:00   Current Price: 1.34368
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:03   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:03   Time: 2025.07.18 10:05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:03   Checks: 8623 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:03   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:03   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:03   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:03   RSI: 74.80
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:03   ATR: 4.12 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:03   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:04   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:04   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:04   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:04   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:04   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:13   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:13   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:13   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:13   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:13   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:15   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:15   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:15   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:15   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:15   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:18   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:23   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:24   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:26   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:27   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:28   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:28   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:28   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:28   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:28   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:31   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:32   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Time: 2025.07.18 10:05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Checks: 8674 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   RSI: 75.27
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   ATR: 4.20 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:33   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:34   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:36   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:37   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:38   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:39   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:39   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:39   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:39   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:39   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:40   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:41   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:46   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:46   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:46   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:46   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:46   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:47   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:48   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:49   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:49   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:49   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:49   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:49   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:50   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:52   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:53   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:53   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:53   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:53   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:53   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:56   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:56   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:56   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:56   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:56   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:57   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:57   Current Price: 1.3437700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:57   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:57   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:57   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:57   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:57   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:57   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:57   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:05:58   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:00   Current Price: 1.3437999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:00   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:00   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:00   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:00   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:00   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:02   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Time: 2025.07.18 10:06
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Checks: 8731 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   RSI: 76.06
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   ATR: 4.26 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Speed: 12.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:03   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:04   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:04   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:04   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:04   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:04   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:07   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:09   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:10   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:11   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:13   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:15   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:16   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:18   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:18   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:18   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:18   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:18   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:22   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:23   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:24   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:26   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:26   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:26   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:26   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:26   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:27   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:27   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:27   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:27   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:27   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:28   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:28   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:28   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:28   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:28   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:30   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:31   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Time: 2025.07.18 10:06
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Checks: 8819 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   RSI: 75.89
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   ATR: 4.36 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:33   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:34   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:34   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:34   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:34   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:34   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:36   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:36   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:36   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:36   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:36   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:37   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:37   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:37   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:37   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:37   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:38   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:38   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:38   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:38   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:38   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:43   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:44   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:44   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:44   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:44   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:44   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:45   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:46   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:46   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:46   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:46   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:46   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:54   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:54   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:54   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:54   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:54   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:56   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:56   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:56   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:56   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:56   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:57   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:58   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:06:59   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:00   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:02   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Time: 2025.07.18 10:07
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Checks: 8858 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   RSI: 75.36
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   ATR: 4.36 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:03   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:05   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:06   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:09   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:09   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:09   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:09   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:09   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:10   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:10   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:10   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:10   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:10   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:11   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:13   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:13   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:13   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:13   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:13   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:14   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:14   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:14   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:14   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:14   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:15   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:15   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:15   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:15   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:15   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:16   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:18   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:19   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:19   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:19   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:19   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:19   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:22   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:27   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:27   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:27   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:27   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:27   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:28   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:30   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:30   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:30   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:30   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:30   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:31   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:31   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:31   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:31   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:31   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   Time: 2025.07.18 10:07
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   Checks: 8915 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   RSI: 76.31
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   ATR: 4.36 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:34   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:35   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:35   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:35   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:35   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:35   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:36   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:36   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:36   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:36   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:36   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:37   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:39   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:40   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:41   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:41   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:41   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:41   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:41   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:43   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:50   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:59   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:59   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:59   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:59   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:07:59   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:00   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:01   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:02   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   Time: 2025.07.18 10:08
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   Checks: 8940 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   RSI: 76.56
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   ATR: 4.36 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:04   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:05   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:05   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:05   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:05   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:05   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:06   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:07   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:08   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:09   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:10   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:11   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:12   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:13   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:13   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:13   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:13   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:13   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:16   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:17   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:17   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:17   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:17   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:17   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:18   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:18   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:18   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:18   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:18   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:20   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:21   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:22   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:23   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:23   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:23   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:23   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:23   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:24   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:24   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:24   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:24   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:24   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:25   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:29   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:30   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:30   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:30   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:30   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:30   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:31   TOTAL SCORE: 2/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   --- Calculating Score for Round Bounce ---
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Level strength: +0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Market structure: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Momentum: +1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   High speed: +2
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   TOTAL SCORE: 4/4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Loss reduction: Risk = 0.5%
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   market buy 0.25 GBPUSD.a sl: 1.34181 (1.34379 / 1.34381)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   deal #42 buy 0.25 GBPUSD.a at 1.34381 done (based on order #372)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   deal performed [#42 buy 0.25 GBPUSD.a at 1.34381]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   order performed buy 0.25 at 1.34381 [#372 buy 0.25 GBPUSD.a at 1.34381]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   CTrade::OrderSend: market buy 0.25 GBPUSD.a sl: 1.34181 [done at 1.34381]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   === TRADE EXECUTED ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Type: BUY
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Entry: 1.34381
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Stop Loss: 1.34181 (20.000000000000018 pips)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Volume: 0.25
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Reason: Round Bounce
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:32   Score: 4
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:35   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:35   Time: 2025.07.18 10:08
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:35   Checks: 8998 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:35   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:35   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:35   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:35   RSI: 75.89
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:08:35   ATR: 4.36 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:00   Current Price: 1.34361
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:08   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:08   Time: 2025.07.18 10:09
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:08   Checks: 8998 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:08   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:08   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:08   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:08   RSI: 71.57
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:08   ATR: 4.42 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:38   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:38   Time: 2025.07.18 10:09
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:38   Checks: 9006 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:38   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:38   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:38   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:38   RSI: 74.52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:38   ATR: 4.44 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:09:38   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:00   Current Price: 1.3436
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:08   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:08   Time: 2025.07.18 10:10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:08   Checks: 9071 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:08   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:08   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:08   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:08   RSI: 70.95
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:08   ATR: 4.07 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:08   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:38   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:38   Time: 2025.07.18 10:10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:38   Checks: 9136 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:38   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:38   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:38   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:38   RSI: 72.05
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:38   ATR: 4.12 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:38   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:58   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:58   Current Price: 1.34352
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:58   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:10:58   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:00   Current Price: 1.34351
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:09   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:09   Time: 2025.07.18 10:11
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:09   Checks: 9202 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:09   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:09   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:09   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:09   RSI: 68.58
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:09   ATR: 4.20 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:09   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:39   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:39   Time: 2025.07.18 10:11
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:39   Checks: 9246 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:39   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:39   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:39   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:39   RSI: 69.61
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:39   ATR: 4.20 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:11:39   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:00   Current Price: 1.34347
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:10   Time: 2025.07.18 10:12
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:10   Checks: 9318 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:10   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:10   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:10   RSI: 69.87
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:10   ATR: 4.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:10   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:40   Time: 2025.07.18 10:12
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:40   Checks: 9357 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:40   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:40   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:40   RSI: 70.14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:40   ATR: 4.21 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:12:40   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:10   Time: 2025.07.18 10:13
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:10   Checks: 9442 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:10   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:10   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:10   RSI: 64.96
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:10   ATR: 4.32 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:10   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:40   Time: 2025.07.18 10:13
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:40   Checks: 9520 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:40   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:40   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:40   RSI: 61.10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:13:40   ATR: 4.46 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:10   Time: 2025.07.18 10:14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:10   Checks: 9581 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:10   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:10   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:10   RSI: 61.10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:10   ATR: 4.46 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:10   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:40   Time: 2025.07.18 10:14
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:40   Checks: 9624 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:40   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:40   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:40   RSI: 60.50
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:40   ATR: 4.47 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:14:40   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:10   Time: 2025.07.18 10:15
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:10   Checks: 9711 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:10   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:10   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:10   RSI: 63.99
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:10   ATR: 4.22 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:10   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:40   Time: 2025.07.18 10:15
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:40   Checks: 9765 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:40   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:40   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:40   RSI: 65.18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:40   ATR: 4.35 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:40   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:59   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:59   Current Price: 1.3434599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:59   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:15:59   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:00   Current Price: 1.34347
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:10   Time: 2025.07.18 10:16
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:10   Checks: 9818 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:10   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:10   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:10   RSI: 65.86
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:10   ATR: 4.36 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:10   Speed: 2.4 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:40   Time: 2025.07.18 10:16
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:40   Checks: 9859 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:40   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:40   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:40   RSI: 66.72
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:16:40   ATR: 4.42 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:00   Current Price: 1.34356
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:10   Time: 2025.07.18 10:17
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:10   Checks: 9921 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:10   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:10   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:10   RSI: 68.03
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:10   ATR: 4.50 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:40   Time: 2025.07.18 10:17
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:40   Checks: 10011 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:40   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:40   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:40   RSI: 67.23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:40   ATR: 4.50 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:17:40   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:00   Current Price: 1.34361
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:10   Time: 2025.07.18 10:18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:10   Checks: 10073 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:10   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:10   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:10   RSI: 66.72
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:10   ATR: 4.50 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:10   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:40   Time: 2025.07.18 10:18
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:40   Checks: 10136 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:40   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:40   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:40   RSI: 65.97
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:40   ATR: 4.50 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:18:40   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:00   Current Price: 1.34334
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:10   Time: 2025.07.18 10:19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:10   Checks: 10214 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:10   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:10   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:10   RSI: 64.71
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:10   ATR: 4.50 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:10   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:40   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:40   Time: 2025.07.18 10:19
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:40   Checks: 10281 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:40   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:40   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:40   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:40   RSI: 64.12
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:40   ATR: 4.50 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:19:40   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:00   Current Price: 1.34331
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:10   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:10   Time: 2025.07.18 10:20
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:10   Checks: 10375 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:10   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:10   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:10   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:10   RSI: 62.49
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:10   ATR: 4.39 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:10   Speed: 18.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:41   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:41   Time: 2025.07.18 10:20
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:41   Checks: 10435 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:41   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:41   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:41   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:41   RSI: 60.95
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:41   ATR: 4.40 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:20:41   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:11   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:11   Time: 2025.07.18 10:21
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:11   Checks: 10499 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:11   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:11   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:11   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:11   RSI: 60.10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:11   ATR: 4.47 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:11   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:41   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:41   Time: 2025.07.18 10:21
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:41   Checks: 10540 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:41   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:41   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:41   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:41   RSI: 60.10
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:41   ATR: 4.47 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:21:41   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:00   Current Price: 1.34314
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:11   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:11   Time: 2025.07.18 10:22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:11   Checks: 10600 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:11   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:11   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:11   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:11   RSI: 60.31
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:11   ATR: 4.47 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:11   Speed: 2.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:41   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:41   Time: 2025.07.18 10:22
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:41   Checks: 10650 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:41   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:41   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:41   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:41   RSI: 61.16
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:41   ATR: 4.47 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:22:41   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:00   Current Price: 1.34314
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:12   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:12   Time: 2025.07.18 10:23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:12   Checks: 10705 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:12   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:12   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:12   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:12   RSI: 60.52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:12   ATR: 4.47 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:12   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:43   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:43   Time: 2025.07.18 10:23
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:43   Checks: 10793 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:43   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:43   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:43   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:43   RSI: 61.16
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:43   ATR: 4.47 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:23:43   Speed: 3.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:00   Current Price: 1.34308
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:13   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:13   Time: 2025.07.18 10:24
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:13   Checks: 10850 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:13   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:13   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:13   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:13   RSI: 60.52
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:13   ATR: 4.47 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:13   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:43   === DEBUG INFO ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:43   Time: 2025.07.18 10:24
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:43   Checks: 10896 | Sweeps: 0 | Grabs: 0 | Touches: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:43   Current Levels - Support: 5 Resistance: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:43   Nearest Support: 1.342 (Round 13420)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:43   Nearest Resistance: 1.345 (Daily R2)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:43   RSI: 58.88
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:43   ATR: 4.48 pips
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:24:43   Speed: 6.0 pips/min
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:00   Current Price: 1.34305
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:10   Exit: Structure break
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:10   market sell 0.25 GBPUSD.a, close #372 (1.34304 / 1.34307)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:10   deal #43 sell 0.25 GBPUSD.a at 1.34304 done (based on order #373)
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:10   deal performed [#43 sell 0.25 GBPUSD.a at 1.34304]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:10   order performed sell 0.25 at 1.34304 [#373 sell 0.25 GBPUSD.a at 1.34304]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:10   CTrade::OrderSend: market sell 0.25 position #372 GBPUSD.a [done at 1.34304]
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:25:10   Position closed: 372
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:26:00   Current Price: 1.34296
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:27:00   Current Price: 1.3431899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:28:00   Current Price: 1.3432
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:29:00   Current Price: 1.34311
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:30:00   Current Price: 1.34313
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:31:00   Current Price: 1.3431
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:32:00   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:33:00   Current Price: 1.34318
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:34:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:35:00   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:36:00   Current Price: 1.3431899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:37:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:38:00   Current Price: 1.34321
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:39:00   Current Price: 1.34307
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:40:00   Current Price: 1.34315
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:41:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:42:00   Current Price: 1.34325
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:43:00   Current Price: 1.34284
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:44:00   Current Price: 1.34294
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:45:00   Current Price: 1.34298
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:46:00   Current Price: 1.3428499999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:47:00   Current Price: 1.34287
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:48:00   Current Price: 1.34279
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:49:00   Current Price: 1.34288
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:50:00   Current Price: 1.34287
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:51:00   Current Price: 1.34289
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:52:00   Current Price: 1.34271
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:53:00   Current Price: 1.34271
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:54:00   Current Price: 1.34284
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:55:00   Current Price: 1.34288
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:56:00   Current Price: 1.3431199999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:57:00   Current Price: 1.3431600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:58:00   Current Price: 1.34307
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:59:00   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 10:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:00:00   Current Price: 1.34302
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Current Price: 1.34326
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Hour: 2025.07.18 11:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:02:00   Current Price: 1.34371
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:03:00   Current Price: 1.3437000000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:04:00   Current Price: 1.34359
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:05:00   Current Price: 1.34385
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:06:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:07:00   Current Price: 1.3437700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:08:00   Current Price: 1.34385
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:09:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:10:00   Current Price: 1.34383
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:11:00   Current Price: 1.34388
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:12:00   Current Price: 1.34397
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:13:00   Current Price: 1.34391
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:14:00   Current Price: 1.34388
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:15:00   Current Price: 1.34386
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:16:00   Current Price: 1.34397
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:17:00   Current Price: 1.34383
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:18:00   Current Price: 1.34371
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:19:00   Current Price: 1.34359
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:20:00   Current Price: 1.3437700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:21:00   Current Price: 1.34353
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:22:00   Current Price: 1.3434599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:23:00   Current Price: 1.3434599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:24:00   Current Price: 1.34361
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:25:00   Current Price: 1.3437700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:26:00   Current Price: 1.34381
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:27:00   Current Price: 1.34386
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:28:00   Current Price: 1.34388
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:29:00   Current Price: 1.34385
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:30:00   Current Price: 1.34384
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:31:00   Current Price: 1.34398
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:32:00   Current Price: 1.34408
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:33:00   Current Price: 1.34421
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:34:00   Current Price: 1.34408
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:35:00   Current Price: 1.34403
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:36:00   Current Price: 1.34391
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:37:00   Current Price: 1.34369
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:38:00   Current Price: 1.34379
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:39:00   Current Price: 1.3439999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:40:00   Current Price: 1.34401
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:41:00   Current Price: 1.3439
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:42:00   Current Price: 1.34376
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:43:00   Current Price: 1.34388
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:44:00   Current Price: 1.34396
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:45:00   Current Price: 1.34395
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:46:00   Current Price: 1.34391
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:47:00   Current Price: 1.34408
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:48:00   Current Price: 1.34388
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:49:00   Current Price: 1.34386
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:50:00   Current Price: 1.3439999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:51:00   Current Price: 1.34392
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:52:00   Current Price: 1.34386
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:53:00   Current Price: 1.34378
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:54:00   Current Price: 1.34379
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:55:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:56:00   Current Price: 1.3439
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:57:00   Current Price: 1.34385
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:58:00   Current Price: 1.34378
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:59:00   Current Price: 1.3437299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 11:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:00:00   Current Price: 1.34367
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Current Price: 1.34353
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Hour: 2025.07.18 12:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:02:00   Current Price: 1.34379
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:03:00   Current Price: 1.3437999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:04:00   Current Price: 1.34379
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:05:00   Current Price: 1.34382
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:06:00   Current Price: 1.3439
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:07:00   Current Price: 1.34383
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:08:00   Current Price: 1.34401
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:09:00   Current Price: 1.34408
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:10:00   Current Price: 1.34401
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:11:00   Current Price: 1.34399
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:12:00   Current Price: 1.34396
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:13:00   Current Price: 1.3441
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:14:00   Current Price: 1.34418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:15:00   Current Price: 1.3441100000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:16:00   Current Price: 1.34416
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:17:00   Current Price: 1.3439999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:18:00   Current Price: 1.34381
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:19:00   Current Price: 1.34397
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:20:00   Current Price: 1.34391
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:21:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:22:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:23:00   Current Price: 1.34397
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:24:00   Current Price: 1.34388
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:25:00   Current Price: 1.34387
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:26:00   Current Price: 1.34395
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:27:00   Current Price: 1.34399
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:28:00   Current Price: 1.34401
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:29:00   Current Price: 1.34398
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:30:00   Current Price: 1.34396
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:31:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:32:00   Current Price: 1.3437700000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:33:00   Current Price: 1.34381
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:34:00   Current Price: 1.34379
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:35:00   Current Price: 1.3437999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:36:00   Current Price: 1.34388
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:37:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:38:00   Current Price: 1.3437999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:39:00   Current Price: 1.3439
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:40:00   Current Price: 1.3437999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:41:00   Current Price: 1.34388
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:42:00   Current Price: 1.34387
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:43:00   Current Price: 1.34388
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:44:00   Current Price: 1.34382
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:45:00   Current Price: 1.34383
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:46:00   Current Price: 1.34381
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:47:00   Current Price: 1.34382
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:48:00   Current Price: 1.34384
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:49:00   Current Price: 1.3437999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:50:00   Current Price: 1.34378
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:51:00   Current Price: 1.34382
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:52:00   Current Price: 1.34382
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:53:00   Current Price: 1.3439
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:54:00   Current Price: 1.34392
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:55:00   Current Price: 1.34397
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:56:00   Current Price: 1.34401
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:57:00   Current Price: 1.34426
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:58:00   Current Price: 1.34416
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:59:00   Current Price: 1.3441100000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 12:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:00:00   Current Price: 1.34408
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Current Price: 1.3439999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Hour: 2025.07.18 13:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:02:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:03:00   Current Price: 1.34382
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:04:00   Current Price: 1.34381
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:05:00   Current Price: 1.34395
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:06:00   Current Price: 1.34397
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:07:00   Current Price: 1.3439
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:08:00   Current Price: 1.3437999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:09:00   Current Price: 1.34387
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:10:00   Current Price: 1.34372
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:11:00   Current Price: 1.34361
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:12:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:13:00   Current Price: 1.34398
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:14:00   Current Price: 1.34401
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:15:00   Current Price: 1.34405
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:16:00   Current Price: 1.34417
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:17:00   Current Price: 1.34425
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:18:00   Current Price: 1.34427
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:19:00   Current Price: 1.34416
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:20:00   Current Price: 1.34412
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:21:00   Current Price: 1.34406
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:22:00   Current Price: 1.3440400000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:23:00   Current Price: 1.34393
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:24:00   Current Price: 1.34409
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:25:00   Current Price: 1.3440400000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:26:00   Current Price: 1.34403
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:27:00   Current Price: 1.3440699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:28:00   Current Price: 1.34416
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:29:00   Current Price: 1.34418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:30:00   Current Price: 1.3441100000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:31:00   Current Price: 1.3441100000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:32:00   Current Price: 1.34418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:33:00   Current Price: 1.34412
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:34:00   Current Price: 1.34432
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:35:00   Current Price: 1.34428
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:36:00   Current Price: 1.34417
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:37:00   Current Price: 1.34417
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:38:00   Current Price: 1.34418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:39:00   Current Price: 1.3443
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:40:00   Current Price: 1.3444099999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:41:00   Current Price: 1.34442
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:42:00   Current Price: 1.34442
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:43:00   Current Price: 1.34432
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:44:00   Current Price: 1.3445
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:45:00   Current Price: 1.34452
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:46:00   Current Price: 1.34449
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:47:00   Current Price: 1.34453
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:48:00   Current Price: 1.34445
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:49:00   Current Price: 1.34449
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:50:00   Current Price: 1.34452
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:51:00   Current Price: 1.34453
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:52:00   Current Price: 1.34501
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:53:00   Current Price: 1.34515
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:54:00   Current Price: 1.34522
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:55:00   Current Price: 1.34498
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:56:00   Current Price: 1.3449200000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:57:00   Current Price: 1.3452
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:58:00   Current Price: 1.34538
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:59:00   Current Price: 1.34528
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 13:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:00:00   Current Price: 1.34518
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Current Price: 1.3452
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Hour: 2025.07.18 14:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:02:00   Current Price: 1.34517
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:03:00   Current Price: 1.34531
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:04:00   Current Price: 1.34519
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:05:00   Current Price: 1.34521
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:06:00   Current Price: 1.34531
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:07:00   Current Price: 1.34543
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:08:00   Current Price: 1.34532
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:09:00   Current Price: 1.34515
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:10:00   Current Price: 1.34532
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:11:00   Current Price: 1.34549
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:12:00   Current Price: 1.3454
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:13:00   Current Price: 1.34548
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:14:00   Current Price: 1.3455
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:15:00   Current Price: 1.34538
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:16:00   Current Price: 1.3452
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:17:00   Current Price: 1.34525
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:18:00   Current Price: 1.34509
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:19:00   Current Price: 1.34509
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:20:00   Current Price: 1.34516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:21:00   Current Price: 1.3451
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:22:00   Current Price: 1.34519
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:23:00   Current Price: 1.34521
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:24:00   Current Price: 1.3452
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:25:00   Current Price: 1.3454
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:26:00   Current Price: 1.34521
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:27:00   Current Price: 1.34523
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:28:00   Current Price: 1.34538
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:29:00   Current Price: 1.3452899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:30:00   Current Price: 1.3454
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:31:00   Current Price: 1.3455300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:32:00   Current Price: 1.34548
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:33:00   Current Price: 1.3455300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:34:00   Current Price: 1.34541
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:35:00   Current Price: 1.34541
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:36:00   Current Price: 1.34552
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:37:00   Current Price: 1.34549
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:38:00   Current Price: 1.34549
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:39:00   Current Price: 1.34541
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:40:00   Current Price: 1.34547
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:41:00   Current Price: 1.34543
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:42:00   Current Price: 1.34548
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:43:00   Current Price: 1.34547
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:44:00   Current Price: 1.34549
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:45:00   Current Price: 1.3455300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:46:00   Current Price: 1.34549
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:47:00   Current Price: 1.3455300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:48:00   Current Price: 1.3455
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:49:00   Current Price: 1.34557
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:50:00   Current Price: 1.3456000000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:51:00   Current Price: 1.3455300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:52:00   Current Price: 1.3455
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:53:00   Current Price: 1.34546
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:54:00   Current Price: 1.34548
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:55:00   Current Price: 1.34532
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:56:00   Current Price: 1.34538
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:57:00   Current Price: 1.34544
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:58:00   Current Price: 1.3455
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:59:00   Current Price: 1.34557
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 14:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:00:00   Current Price: 1.34569
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Current Price: 1.34561
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Hour: 2025.07.18 15:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:02:00   Current Price: 1.34568
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:03:00   Current Price: 1.34568
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:04:00   Current Price: 1.34567
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:05:00   Current Price: 1.34559
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:06:00   Current Price: 1.34568
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:07:00   Current Price: 1.34581
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:08:00   Current Price: 1.34589
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:09:00   Current Price: 1.34591
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:10:00   Current Price: 1.34596
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:11:00   Current Price: 1.34608
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:12:00   Current Price: 1.34628
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:13:00   Current Price: 1.3467799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:14:00   Current Price: 1.34692
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:15:00   Current Price: 1.34688
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:16:00   Current Price: 1.34669
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:17:00   Current Price: 1.34638
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:18:00   Current Price: 1.34639
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:19:00   Current Price: 1.34657
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:20:00   Current Price: 1.34649
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:21:00   Current Price: 1.3466
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:22:00   Current Price: 1.34694
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:23:00   Current Price: 1.347
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:24:00   Current Price: 1.3471
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:25:00   Current Price: 1.34699
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:26:00   Current Price: 1.3466
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:27:00   Current Price: 1.34629
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:28:00   Current Price: 1.34615
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:29:00   Current Price: 1.3459400000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:30:00   Current Price: 1.34602
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:31:00   Current Price: 1.34629
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:32:00   Current Price: 1.346
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:33:00   Current Price: 1.34592
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:34:00   Current Price: 1.34548
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:35:00   Current Price: 1.34545
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:36:00   Current Price: 1.3455
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:37:00   Current Price: 1.3456000000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:38:00   Current Price: 1.3456000000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:39:00   Current Price: 1.3455599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:40:00   Current Price: 1.34579
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:41:00   Current Price: 1.34577
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:42:00   Current Price: 1.34575
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:43:00   Current Price: 1.34583
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:44:00   Current Price: 1.34588
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:45:00   Current Price: 1.34588
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:46:00   Current Price: 1.34578
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:47:00   Current Price: 1.34571
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:48:00   Current Price: 1.34576
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:49:00   Current Price: 1.34567
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:50:00   Current Price: 1.34579
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:51:00   Current Price: 1.3458
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:52:00   Current Price: 1.34569
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:53:00   Current Price: 1.34565
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:54:00   Current Price: 1.34549
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:55:00   Current Price: 1.34545
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:56:00   Current Price: 1.34537
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:57:00   Current Price: 1.3453
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:58:00   Current Price: 1.34548
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:59:00   Current Price: 1.34559
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 15:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:00:00   Current Price: 1.34578
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Current Price: 1.34601
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Hour: 2025.07.18 16:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:02:00   Current Price: 1.34588
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:03:00   Current Price: 1.34546
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:04:00   Current Price: 1.34558
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:05:00   Current Price: 1.34574
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:06:00   Current Price: 1.34575
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:07:00   Current Price: 1.34581
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:08:00   Current Price: 1.34577
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:09:00   Current Price: 1.34574
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:10:00   Current Price: 1.34557
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:11:00   Current Price: 1.34593
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:12:00   Current Price: 1.3457
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:13:00   Current Price: 1.34568
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:14:00   Current Price: 1.3458999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:15:00   Current Price: 1.34577
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:16:00   Current Price: 1.34565
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:17:00   Current Price: 1.34567
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:18:00   Current Price: 1.34576
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:19:00   Current Price: 1.34582
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:20:00   Current Price: 1.34633
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:21:00   Current Price: 1.34676
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:22:00   Current Price: 1.34677
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:23:00   Current Price: 1.34665
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:24:00   Current Price: 1.3467799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:25:00   Current Price: 1.34691
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:26:00   Current Price: 1.34689
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:27:00   Current Price: 1.3472
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:28:00   Current Price: 1.34748
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:29:00   Current Price: 1.34724
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:30:00   Current Price: 1.34713
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:31:00   Current Price: 1.34664
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:32:00   Current Price: 1.34626
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:33:00   Current Price: 1.34618
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:34:00   Current Price: 1.34609
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:35:00   Current Price: 1.34628
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:36:00   Current Price: 1.3464800000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:37:00   Current Price: 1.3462100000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:38:00   Current Price: 1.34606
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:39:00   Current Price: 1.34572
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:40:00   Current Price: 1.34575
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:41:00   Current Price: 1.34572
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:42:00   Current Price: 1.34582
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:43:00   Current Price: 1.3458999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:44:00   Current Price: 1.34612
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:45:00   Current Price: 1.34608
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:46:00   Current Price: 1.34573
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:47:00   Current Price: 1.34578
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:48:00   Current Price: 1.34591
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:49:00   Current Price: 1.34592
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:50:00   Current Price: 1.34578
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:51:00   Current Price: 1.346
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:52:00   Current Price: 1.3459400000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:53:00   Current Price: 1.34598
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:54:00   Current Price: 1.34608
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:55:00   Current Price: 1.34598
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:56:00   Current Price: 1.34636
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:57:00   Current Price: 1.34631
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:58:00   Current Price: 1.34633
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:59:00   Current Price: 1.34659
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 16:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:00:00   Current Price: 1.3465799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Current Price: 1.34653
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Hour: 2025.07.18 17:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:02:00   Current Price: 1.34633
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:03:00   Current Price: 1.34659
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:04:00   Current Price: 1.34641
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:05:00   Current Price: 1.34633
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:06:00   Current Price: 1.3465799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:07:00   Current Price: 1.3468200000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:08:00   Current Price: 1.34657
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:09:00   Current Price: 1.34636
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:10:00   Current Price: 1.34615
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:11:00   Current Price: 1.34615
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:12:00   Current Price: 1.34593
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:13:00   Current Price: 1.34584
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:14:00   Current Price: 1.34568
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:15:00   Current Price: 1.34568
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:16:00   Current Price: 1.34546
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:17:00   Current Price: 1.34531
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:18:00   Current Price: 1.34517
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:19:00   Current Price: 1.34517
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:20:00   Current Price: 1.34514
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:21:00   Current Price: 1.34531
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:22:00   Current Price: 1.34548
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:23:00   Current Price: 1.3456299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:24:00   Current Price: 1.34548
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:25:00   Current Price: 1.34546
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:26:00   Current Price: 1.34504
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:27:00   Current Price: 1.34471
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:28:00   Current Price: 1.3449499999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:29:00   Current Price: 1.3449900000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:30:00   Current Price: 1.34488
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:31:00   Current Price: 1.34505
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:32:00   Current Price: 1.34538
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:33:00   Current Price: 1.34514
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:34:00   Current Price: 1.34503
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:35:00   Current Price: 1.34538
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:36:00   Current Price: 1.34525
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:37:00   Current Price: 1.34536
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:38:00   Current Price: 1.34484
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:39:00   Current Price: 1.34485
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:40:00   Current Price: 1.34486
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:41:00   Current Price: 1.34497
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:42:00   Current Price: 1.3449499999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:43:00   Current Price: 1.3450199999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:44:00   Current Price: 1.34501
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:45:00   Current Price: 1.34482
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:46:00   Current Price: 1.34505
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:47:00   Current Price: 1.3452600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:48:00   Current Price: 1.34516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:49:00   Current Price: 1.34506
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:50:00   Current Price: 1.3449499999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:51:00   Current Price: 1.34467
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:52:00   Current Price: 1.34479
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:53:00   Current Price: 1.34442
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:54:00   Current Price: 1.3446799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:55:00   Current Price: 1.34454
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:56:00   Current Price: 1.34413
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:57:00   Current Price: 1.34418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:58:00   Current Price: 1.34422
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:59:00   Current Price: 1.34427
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 17:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:00:00   Current Price: 1.34419
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Current Price: 1.34433
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Hour: 2025.07.18 18:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:02:00   Current Price: 1.34425
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:03:00   Current Price: 1.34435
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:04:00   Current Price: 1.34428
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:05:00   Current Price: 1.3439999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:06:00   Current Price: 1.34416
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:07:00   Current Price: 1.3440699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:08:00   Current Price: 1.34406
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:09:00   Current Price: 1.3443399999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:10:00   Current Price: 1.34435
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:11:00   Current Price: 1.3447
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:12:00   Current Price: 1.34458
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:13:00   Current Price: 1.34464
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:14:00   Current Price: 1.34406
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:15:00   Current Price: 1.34423
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:16:00   Current Price: 1.34446
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:17:00   Current Price: 1.3442
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:18:00   Current Price: 1.34451
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:19:00   Current Price: 1.34457
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:20:00   Current Price: 1.34446
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:21:00   Current Price: 1.34444
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:22:00   Current Price: 1.34449
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:23:00   Current Price: 1.34461
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:24:00   Current Price: 1.34464
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:25:00   Current Price: 1.34475
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:26:00   Current Price: 1.34445
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:27:00   Current Price: 1.34451
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:28:00   Current Price: 1.34464
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:29:00   Current Price: 1.3445
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:30:00   Current Price: 1.34449
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:31:00   Current Price: 1.34428
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:32:00   Current Price: 1.34439
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:33:00   Current Price: 1.34437
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:34:00   Current Price: 1.34451
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:35:00   Current Price: 1.34436
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:36:00   Current Price: 1.3444099999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:37:00   Current Price: 1.34454
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:38:00   Current Price: 1.34471
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:39:00   Current Price: 1.34461
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:40:00   Current Price: 1.34433
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:41:00   Current Price: 1.34423
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:42:00   Current Price: 1.3440400000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:43:00   Current Price: 1.34379
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:44:00   Current Price: 1.34382
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:45:00   Current Price: 1.34398
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:46:00   Current Price: 1.34412
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:47:00   Current Price: 1.34378
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:48:00   Current Price: 1.34376
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:49:00   Current Price: 1.3436
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:50:00   Current Price: 1.34356
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:51:00   Current Price: 1.34358
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:52:00   Current Price: 1.34359
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:53:00   Current Price: 1.34381
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:54:00   Current Price: 1.34389
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:55:00   Current Price: 1.3440400000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:56:00   Current Price: 1.34398
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:57:00   Current Price: 1.3439
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:58:00   Current Price: 1.34361
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:59:00   Current Price: 1.34365
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 18:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:00:00   Current Price: 1.34375
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Current Price: 1.34361
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Hour: 2025.07.18 19:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:02:00   Current Price: 1.34369
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:03:00   Current Price: 1.34368
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:04:00   Current Price: 1.34359
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:05:00   Current Price: 1.34344
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:06:00   Current Price: 1.34333
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:07:00   Current Price: 1.34329
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:08:00   Current Price: 1.3434
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:09:00   Current Price: 1.34301
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:10:00   Current Price: 1.34299
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:11:00   Current Price: 1.34306
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:12:00   Current Price: 1.34302
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:13:00   Current Price: 1.34293
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:14:00   Current Price: 1.34305
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:15:00   Current Price: 1.34281
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:16:00   Current Price: 1.3429
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:17:00   Current Price: 1.3427799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:18:00   Current Price: 1.34291
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:19:00   Current Price: 1.3429
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:20:00   Current Price: 1.34288
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:21:00   Current Price: 1.3429
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:22:00   Current Price: 1.34269
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:23:00   Current Price: 1.34239
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:24:00   Current Price: 1.34228
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:25:00   Current Price: 1.342
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:26:00   Current Price: 1.3419400000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:27:00   Current Price: 1.34184
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:28:00   Current Price: 1.3421
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:29:00   Current Price: 1.34223
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:30:00   Current Price: 1.34219
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:31:00   Current Price: 1.34244
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:32:00   Current Price: 1.34238
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:33:00   Current Price: 1.34259
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:34:00   Current Price: 1.3427
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:35:00   Current Price: 1.34259
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:36:00   Current Price: 1.3426
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:37:00   Current Price: 1.3425099999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:38:00   Current Price: 1.3425799999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:39:00   Current Price: 1.34261
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:40:00   Current Price: 1.34263
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:41:00   Current Price: 1.3425099999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:42:00   Current Price: 1.3423
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:43:00   Current Price: 1.3422100000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:44:00   Current Price: 1.3424
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:45:00   Current Price: 1.34249
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:46:00   Current Price: 1.34229
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:47:00   Current Price: 1.3421699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:48:00   Current Price: 1.34202
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:49:00   Current Price: 1.34192
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:50:00   Current Price: 1.34201
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:51:00   Current Price: 1.34198
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:52:00   Current Price: 1.34212
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:53:00   Current Price: 1.34201
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:54:00   Current Price: 1.34199
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:55:00   Current Price: 1.3419699999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:56:00   Current Price: 1.34196
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:57:00   Current Price: 1.3418999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:58:00   Current Price: 1.34191
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:59:00   Current Price: 1.34183
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 19:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:00:00   Current Price: 1.34189
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Current Price: 1.34184
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Hour: 2025.07.18 20:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:02:00   Current Price: 1.34182
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:03:00   Current Price: 1.34185
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:04:00   Current Price: 1.34191
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:05:00   Current Price: 1.34179
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:06:00   Current Price: 1.34183
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:07:00   Current Price: 1.34172
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:08:00   Current Price: 1.34179
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:09:00   Current Price: 1.3418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:10:00   Current Price: 1.34171
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:11:00   Current Price: 1.34158
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:12:00   Current Price: 1.34166
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:13:00   Current Price: 1.3417
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:14:00   Current Price: 1.34179
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:15:00   Current Price: 1.34162
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:16:00   Current Price: 1.34159
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:17:00   Current Price: 1.34181
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:18:00   Current Price: 1.34169
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:19:00   Current Price: 1.34172
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:20:00   Current Price: 1.3417
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:21:00   Current Price: 1.34167
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:22:00   Current Price: 1.34162
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:23:00   Current Price: 1.34151
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:24:00   Current Price: 1.34157
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:25:00   Current Price: 1.34171
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:26:00   Current Price: 1.34159
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:27:00   Current Price: 1.3416000000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:28:00   Current Price: 1.34154
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:29:00   Current Price: 1.34157
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:30:00   Current Price: 1.34161
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:31:00   Current Price: 1.34148
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:32:00   Current Price: 1.34144
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:33:00   Current Price: 1.34141
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:34:00   Current Price: 1.3413
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:35:00   Current Price: 1.34143
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:36:00   Current Price: 1.34157
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:37:00   Current Price: 1.3414
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:38:00   Current Price: 1.34122
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:39:00   Current Price: 1.34121
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:40:00   Current Price: 1.34131
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:41:00   Current Price: 1.34131
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:42:00   Current Price: 1.34139
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:43:00   Current Price: 1.3414
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:44:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:45:00   Current Price: 1.34148
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:46:00   Current Price: 1.34148
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:47:00   Current Price: 1.34146
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:48:00   Current Price: 1.34145
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:49:00   Current Price: 1.34161
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:50:00   Current Price: 1.34159
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:51:00   Current Price: 1.34168
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:52:00   Current Price: 1.34161
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:53:00   Current Price: 1.3417
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:54:00   Current Price: 1.34171
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:55:00   Current Price: 1.34181
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:56:00   Current Price: 1.34209
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:57:00   Current Price: 1.3421
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:58:00   Current Price: 1.34202
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:59:00   Current Price: 1.3418999999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 20:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:00:00   Current Price: 1.34191
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Current Price: 1.3421
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Hour: 2025.07.18 21:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:02:00   Current Price: 1.34192
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:03:00   Current Price: 1.34198
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:04:00   Current Price: 1.34209
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:05:00   Current Price: 1.3421
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:06:00   Current Price: 1.34198
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:07:00   Current Price: 1.34199
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:08:00   Current Price: 1.3421
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:09:00   Current Price: 1.34191
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:10:00   Current Price: 1.34185
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:11:00   Current Price: 1.34189
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:12:00   Current Price: 1.34188
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:13:00   Current Price: 1.34162
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:14:00   Current Price: 1.34167
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:15:00   Current Price: 1.34167
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:16:00   Current Price: 1.34167
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:17:00   Current Price: 1.34164
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:18:00   Current Price: 1.34167
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:19:00   Current Price: 1.34166
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:20:00   Current Price: 1.34176
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:21:00   Current Price: 1.3418
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:22:00   Current Price: 1.34193
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:23:00   Current Price: 1.34172
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:24:00   Current Price: 1.34171
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:25:00   Current Price: 1.3417
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:26:00   Current Price: 1.34173
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:27:00   Current Price: 1.34161
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:28:00   Current Price: 1.34174
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:29:00   Current Price: 1.34174
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:30:00   Current Price: 1.34174
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:31:00   Current Price: 1.34168
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:32:00   Current Price: 1.34161
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:33:00   Current Price: 1.34157
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:34:00   Current Price: 1.34151
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:35:00   Current Price: 1.34159
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:36:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:37:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:38:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:39:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:40:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:41:00   Current Price: 1.34146
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:42:00   Current Price: 1.3415300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:43:00   Current Price: 1.34148
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:44:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:45:00   Current Price: 1.3416000000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:46:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:47:00   Current Price: 1.3416000000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:48:00   Current Price: 1.34167
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:49:00   Current Price: 1.34162
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:50:00   Current Price: 1.34179
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:51:00   Current Price: 1.3417
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:52:00   Current Price: 1.34165
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:53:00   Current Price: 1.34152
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:54:00   Current Price: 1.34168
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:55:00   Current Price: 1.34161
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:56:00   Current Price: 1.34148
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:57:00   Current Price: 1.3416299999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:58:00   Current Price: 1.34178
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:59:00   Current Price: 1.34181
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 21:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:00:00   Current Price: 1.34168
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Current Price: 1.34172
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Hour: 2025.07.18 22:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:02:00   Current Price: 1.34171
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:03:00   Current Price: 1.34157
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:04:00   Current Price: 1.34162
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:05:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:06:00   Current Price: 1.3415
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:07:00   Current Price: 1.3414
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:08:00   Current Price: 1.34122
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:09:00   Current Price: 1.34122
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:10:00   Current Price: 1.34127
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:11:00   Current Price: 1.34122
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:12:00   Current Price: 1.34101
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:13:00   Current Price: 1.34091
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:14:00   Current Price: 1.34108
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:15:00   Current Price: 1.34101
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:16:00   Current Price: 1.34107
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:17:00   Current Price: 1.34106
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:18:00   Current Price: 1.34107
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:19:00   Current Price: 1.34106
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:20:00   Current Price: 1.34107
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:21:00   Current Price: 1.34104
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:22:00   Current Price: 1.34101
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:23:00   Current Price: 1.34119
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:24:00   Current Price: 1.34111
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:25:00   Current Price: 1.3411
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:26:00   Current Price: 1.34105
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:27:00   Current Price: 1.3411
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:28:00   Current Price: 1.34105
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:29:00   Current Price: 1.34107
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:30:00   Current Price: 1.34105
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:31:00   Current Price: 1.34112
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:32:00   Current Price: 1.34094
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:33:00   Current Price: 1.3409900000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:34:00   Current Price: 1.3409900000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:35:00   Current Price: 1.34108
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:36:00   Current Price: 1.34101
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:37:00   Current Price: 1.34108
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:38:00   Current Price: 1.34119
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:39:00   Current Price: 1.34111
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:40:00   Current Price: 1.3409900000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:41:00   Current Price: 1.34109
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:42:00   Current Price: 1.34098
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:43:00   Current Price: 1.3410199999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:44:00   Current Price: 1.34107
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:45:00   Current Price: 1.34132
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:46:00   Current Price: 1.34122
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:47:00   Current Price: 1.3412
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:48:00   Current Price: 1.3413
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:49:00   Current Price: 1.3411
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:50:00   Current Price: 1.3413
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:51:00   Current Price: 1.34131
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:52:00   Current Price: 1.3413300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:53:00   Current Price: 1.34143
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:54:00   Current Price: 1.34142
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:55:00   Current Price: 1.34142
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:56:00   Current Price: 1.3413300000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:57:00   Current Price: 1.34146
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:58:00   Current Price: 1.34138
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:59:00   Current Price: 1.34135
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 22:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:00:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:00:00   Current Price: 1.34137
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:00:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:00:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Current Price: 1.34143
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   === HOURLY REPORT ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Hour: 2025.07.18 23:00
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Trades this hour: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Sweeps detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Grabs detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Failed breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Touches detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:01:00   Active positions: 1
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:02:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:02:00   Current Price: 1.34152
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:02:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:02:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:03:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:03:00   Current Price: 1.34151
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:03:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:03:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:04:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:04:00   Current Price: 1.34143
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:04:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:04:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:05:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:05:00   Current Price: 1.34145
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:05:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:05:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:06:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:06:00   Current Price: 1.34154
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:06:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:06:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:07:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:07:00   Current Price: 1.3415599999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:07:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:07:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:08:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:08:00   Current Price: 1.34146
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:08:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:08:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:09:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:09:00   Current Price: 1.34147
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:09:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:09:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:10:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:10:00   Current Price: 1.34147
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:10:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:10:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:11:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:11:00   Current Price: 1.34147
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:11:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:11:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:12:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:12:00   Current Price: 1.34142
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:12:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:12:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:13:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:13:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:13:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:13:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:14:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:14:00   Current Price: 1.34146
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:14:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:14:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:15:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:15:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:15:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:15:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:16:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:16:00   Current Price: 1.34145
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:16:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:16:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:17:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:17:00   Current Price: 1.34146
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:17:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:17:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:18:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:18:00   Current Price: 1.34149
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:18:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:18:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:19:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:19:00   Current Price: 1.34152
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:19:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:19:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:20:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:20:00   Current Price: 1.34151
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:20:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:20:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:21:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:21:00   Current Price: 1.34141
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:21:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:21:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:22:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:22:00   Current Price: 1.34134
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:22:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:22:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:23:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:23:00   Current Price: 1.34121
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:23:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:23:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:24:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:24:00   Current Price: 1.3412600000000001
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:24:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:24:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:25:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:25:00   Current Price: 1.3413
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:25:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:25:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:26:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:26:00   Current Price: 1.3412899999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:26:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:26:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:27:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:27:00   Current Price: 1.34128
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:27:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:27:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:28:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:28:00   Current Price: 1.34121
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:28:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:28:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:29:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:29:00   Current Price: 1.34121
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:29:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:29:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:30:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:30:00   Current Price: 1.34127
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:30:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:30:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:31:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:31:00   Current Price: 1.34121
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:31:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:31:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:32:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:32:00   Current Price: 1.34111
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:32:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:32:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:33:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:33:00   Current Price: 1.34111
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:33:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:33:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:34:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:34:00   Current Price: 1.34105
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:34:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:34:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:35:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:35:00   Current Price: 1.341
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:35:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:35:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:36:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:36:00   Current Price: 1.34105
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:36:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:36:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:37:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:37:00   Current Price: 1.34105
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:37:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:37:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:38:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:38:00   Current Price: 1.34108
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:38:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:38:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:39:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:39:00   Current Price: 1.34119
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:39:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:39:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:40:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:40:00   Current Price: 1.34118
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:40:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:40:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:41:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:41:00   Current Price: 1.34105
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:41:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:41:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:42:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:42:00   Current Price: 1.34097
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:42:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:42:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:43:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:43:00   Current Price: 1.34096
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:43:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:43:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:44:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:44:00   Current Price: 1.34106
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:44:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:44:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:45:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:45:00   Current Price: 1.34107
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:45:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:45:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:46:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:46:00   Current Price: 1.34094
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:46:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:46:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:47:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:47:00   Current Price: 1.3406
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:47:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:47:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:48:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:48:00   Current Price: 1.34062
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:48:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:48:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:49:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:49:00   Current Price: 1.3407499999999999
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:49:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:49:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:50:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:50:00   Current Price: 1.34088
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:50:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:50:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:51:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:51:00   Current Price: 1.34079
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:51:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:51:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:52:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:52:00   Current Price: 1.34098
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:52:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:52:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:53:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:53:00   Current Price: 1.34078
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:53:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:53:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:54:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:54:00   Current Price: 1.34081
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:54:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:54:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:55:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:55:00   Current Price: 1.34083
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:55:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:55:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:56:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:56:00   Current Price: 1.34083
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:56:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:56:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:57:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:57:00   Current Price: 1.34083
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:57:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:57:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:58:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:58:00   Current Price: 1.34083
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:58:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:58:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   === Identifying Key Levels ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Current Price: 1.34083
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Total Support Levels: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Total Resistance Levels: 5
+2025.07.21 20:47:14.185	Core 1	final balance 9913.65 USD
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   === EA Terminated ===
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Total Checks: 10960
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Sweeps Detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Grabs Detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Failed Breakouts: 516
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Touches Detected: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Trades Opened: 5
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Trades Skipped: 0
+2025.07.21 20:47:14.185	Core 1	2025.07.18 23:59:00   Last Skip Reason: Consecutive loss limit reached
+2025.07.21 20:47:14.185	Core 1	GBPUSD.a,M5: 727731 ticks, 1439 bars generated. Environment synchronized in 0:00:00.029. Test passed in 0:00:01.217.
+2025.07.21 20:47:14.185	Core 1	GBPUSD.a,M5: total time from login to stop testing 0:00:01.246 (including 0:00:00.029 for history data synchronization)
+2025.07.21 20:47:14.185	Core 1	189 Mb memory used including 7 Mb of history data, 64 Mb of tick data
+
+
 ## BT 21.07.25
 2025.07.21 14:50:09.912	Core 1	2025.07.16 15:34:00   === Identifying Major Levels ===
 2025.07.21 14:50:09.912	Core 1	2025.07.16 15:34:00   Support levels: 4 Resistance levels: 4
