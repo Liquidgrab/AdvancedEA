@@ -1,4 +1,10246 @@
 # Backtest Journal
+## BT 21.07.25
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:37:39   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:37:39   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:42:40   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:42:40   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:47:41   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:47:41   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:52:42   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:52:42   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:57:43   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:57:43   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 15:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:02:44   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:02:44   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:07:45   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:07:45   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:12:46   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:12:46   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:17:47   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:17:47   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:22:48   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:22:48   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:27:49   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:27:49   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:32:50   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:32:50   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:37:51   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:37:51   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:42:52   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:42:52   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:47:53   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:47:53   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:52:54   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:52:54   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:57:55   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:57:55   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 16:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:02:56   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:02:56   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:07:57   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:07:57   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:12:58   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:12:58   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:17:59   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:17:59   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:28:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:28:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:33:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:33:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:38:04   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:38:04   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:43:05   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:43:05   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:48:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:48:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:53:09   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:53:09   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:58:10   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:58:10   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 17:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:03:11   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:03:11   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:08:12   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:08:12   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:13:13   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:13:13   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:18:14   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:18:14   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:23:15   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:23:15   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:28:16   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:28:16   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:33:17   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:33:17   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:38:18   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:38:18   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:43:19   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:43:19   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:48:20   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:48:20   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:53:21   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:53:21   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:58:22   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:58:22   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 18:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:03:23   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:03:23   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:08:24   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:08:24   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:13:25   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:13:25   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:18:26   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:18:26   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:23:27   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:23:27   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:28:29   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:28:29   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:33:31   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:33:31   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:38:32   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:38:32   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:43:34   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:43:34   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:48:38   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:48:38   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:53:39   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:53:39   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:58:40   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:58:40   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 19:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:03:41   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:03:41   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:08:42   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:08:42   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:13:43   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:13:43   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:18:44   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:18:44   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:23:45   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:23:45   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:28:46   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:28:46   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:33:47   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:33:47   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:38:48   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:38:48   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:43:49   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:43:49   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:48:50   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:48:50   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:53:52   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:53:52   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:58:54   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:58:54   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 20:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:03:55   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:03:55   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:08:56   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:08:56   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:13:57   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:13:57   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:18:58   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:18:58   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:23:59   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:23:59   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:34:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:34:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:39:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:39:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:44:05   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:44:05   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:49:06   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:49:06   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:54:09   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:54:09   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:59:21   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 21:59:21   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 22:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.16 23:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:01:00   New trading day started. Balance: 10000.0
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 00:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 01:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 02:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 03:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 04:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 05:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 06:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 07:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:05:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:05:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:10:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:10:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:15:05   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:15:05   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:20:07   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:20:07   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:25:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:25:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:30:09   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:30:09   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:35:10   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:35:10   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:40:12   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:40:12   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:45:13   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:45:13   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:50:15   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:50:15   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:55:16   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:55:16   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 08:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:00:17   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:00:17   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:05:18   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:05:18   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:10:19   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:10:19   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:15:20   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:15:20   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:20:21   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:20:21   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:25:22   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:25:22   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:30:23   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:30:23   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:35:24   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:35:24   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:40:25   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:40:25   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:45:26   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:45:26   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:50:27   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:50:27   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:55:28   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:55:28   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 09:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:00:29   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:00:29   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:05:30   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:05:30   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:10:31   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:10:31   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:15:32   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:15:32   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:20:33   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:20:33   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:25:34   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:25:34   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:30:35   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:30:35   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:35:36   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:35:36   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:40:41   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:40:41   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:45:42   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:45:42   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:50:43   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:50:43   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:55:45   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:55:45   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 10:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:00:46   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:00:46   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:05:47   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:05:47   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:10:48   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:10:48   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:15:49   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:15:49   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:20:50   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:20:50   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:25:51   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:25:51   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:30:52   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:30:52   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:35:53   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:35:53   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:40:54   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:40:54   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:45:56   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:45:56   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:56:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:56:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 11:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:01:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:01:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:06:05   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:06:05   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:11:09   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:11:09   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:16:10   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:16:10   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:21:14   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:21:14   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:26:16   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:26:16   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:31:20   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:31:20   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:36:21   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:36:21   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:41:24   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:41:24   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:46:29   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:46:29   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:51:31   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:51:31   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:56:34   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:56:34   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 12:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:01:35   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:01:35   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:06:37   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:06:37   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:11:38   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:11:38   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:16:39   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:16:39   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:21:41   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:21:41   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:26:42   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:26:42   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:31:45   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:31:45   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:36:46   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:36:46   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:41:47   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:41:47   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:46:50   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:46:50   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:51:59   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:51:59   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 13:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:02:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:02:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:07:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:07:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:12:03   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:12:03   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:17:05   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:17:05   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:22:07   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:22:07   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:27:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:27:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:32:10   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:32:10   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:37:11   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:37:11   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:42:13   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:42:13   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:47:14   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:47:14   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:52:16   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:52:16   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:57:17   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:57:17   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 14:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:02:19   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:02:19   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:07:20   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:07:20   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:12:21   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:12:21   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:17:22   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:17:22   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:22:23   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:22:23   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:27:24   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:27:24   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:32:25   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:32:25   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:37:26   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:37:26   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:42:27   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:42:27   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:47:28   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:47:28   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:00   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:01   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:02   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:03   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:05   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:06   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:06   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:06   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:06   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:06   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:06   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:07   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:08   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:09   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:09   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:09   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:09   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:09   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:09   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:10   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:11   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:13   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:13   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:13   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:13   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:13   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:13   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:14   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:15   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:15   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:15   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:15   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:16   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:16   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:16   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:16   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:16   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:16   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:17   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:18   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:19   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:20   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:21   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:21   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:21   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:21   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:21   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:21   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:22   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:23   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:24   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:25   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:25   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:25   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:25   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:26   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:27   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:28   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:28   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:28   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:28   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:29   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:30   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:31   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:32   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:32   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:32   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:32   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:32   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:32   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:33   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:34   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:35   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:36   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:36   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:36   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:36   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:36   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:36   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:37   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:37   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:37   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:37   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:38   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:39   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:40   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:40   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:40   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:40   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:40   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:40   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:42   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:43   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:43   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:43   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:43   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:43   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:43   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:44   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:44   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:45   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:45   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:48   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:49   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:49   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:49   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:49   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:49   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:49   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:50   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:51   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:52   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:53   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:54   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:55   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:56   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:57   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:58   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:58   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:59   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:59   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:59   Exhaustion pattern: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:49:59   Total score: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:01   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:01   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:05   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:05   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:05   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:05   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:06   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:06   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:13   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:13   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:36   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:36   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:46   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:46   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:46   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:46   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:50:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:06   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:23   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:24   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:24   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:24   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:24   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:24   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:24   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:26   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:46   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:46   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:51:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:13   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:13   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:13   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:13   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:13   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:13   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:23   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:23   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:23   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:23   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:23   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:29   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:29   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:46   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:46   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:52:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:01   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:01   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:01   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:05   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:05   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:06   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:13   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:13   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:21   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:26   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:26   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:36   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:36   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:36   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:36   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:36   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:36   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:36   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:36   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:46   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:46   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:50   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:50   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:52   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:52   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:53:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:00   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:01   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:01   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:01   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:02   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:02   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:03   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:04   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:06   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:06   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:06   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:06   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:07   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:08   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:09   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:10   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:10   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:11   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:12   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:12   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:13   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:13   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:13   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:13   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:14   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:14   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:15   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:16   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:17   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:17   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:18   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:18   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:19   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:19   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:20   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:20   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:21   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:22   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:25   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:26   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:27   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:27   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:28   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:28   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:29   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:30   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:30   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:31   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:31   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:32   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:32   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:33   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:33   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:34   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:34   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:35   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:35   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:36   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:36   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:37   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:37   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:38   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:38   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:39   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:40   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:40   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:41   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:41   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:42   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:42   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:43   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:43   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:44   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:44   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:45   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:45   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:46   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:46   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:46   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:46   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:46   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:46   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:47   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:47   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:48   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:49   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:49   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:51   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:51   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:53   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:53   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:54   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:54   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:55   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:55   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:56   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:56   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:57   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:58   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:59   High probability window: +2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:54:59   Total score: 2
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:57:30   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:57:30   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 15:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:02:31   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:02:31   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:07:32   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:07:32   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:12:33   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:12:33   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:17:35   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:17:35   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:22:36   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:22:36   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:27:37   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:27:37   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:32:38   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:32:38   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:37:39   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:37:39   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:42:40   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:42:40   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:47:41   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:47:41   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:52:42   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:52:42   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:57:43   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:57:43   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 16:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:02:44   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:02:44   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:07:46   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:07:46   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:12:47   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:12:47   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:17:48   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:17:48   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:22:49   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:22:49   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:27:50   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:27:50   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:32:51   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:32:51   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:37:52   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:37:52   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:42:54   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:42:54   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:47:56   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:47:56   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:52:57   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:52:57   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:57:58   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:57:58   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 17:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:02:59   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:02:59   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:13:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:13:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:18:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:18:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:23:03   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:23:03   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:28:05   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:28:05   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:33:07   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:33:07   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:38:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:38:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:43:09   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:43:09   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:48:10   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:48:10   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:53:12   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:53:12   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:58:13   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:58:13   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 18:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:03:14   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:03:14   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:08:15   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:08:15   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:13:17   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:13:17   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:18:20   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:18:20   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:23:26   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:23:26   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:28:27   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:28:27   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:33:30   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:33:30   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:38:31   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:38:31   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:43:32   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:43:32   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:48:33   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:48:33   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:53:34   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:53:34   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:58:35   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:58:35   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 19:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:03:36   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:03:36   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:08:37   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:08:37   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:13:38   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:13:38   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:18:52   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:18:52   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:23:58   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:23:58   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:28:59   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:28:59   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:39:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:39:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:44:03   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:44:03   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:49:07   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:49:07   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:54:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:54:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:59:11   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 20:59:11   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:04:12   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:04:12   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:09:13   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:09:13   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:14:15   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:14:15   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:19:16   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:19:16   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:24:18   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:24:18   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:29:19   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:29:19   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:34:26   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:34:26   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:39:29   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:39:29   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:44:30   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:44:30   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:49:33   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:49:33   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:54:34   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:54:34   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:59:35   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 21:59:35   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 22:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.17 23:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:01:00   New trading day started. Balance: 10000.0
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 00:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 01:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 02:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 03:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 04:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 05:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 06:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 07:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:05:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:05:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:10:13   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:10:13   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:15:14   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:15:14   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:20:18   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:20:18   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:25:24   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:25:24   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:30:25   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:30:25   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:35:27   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:35:27   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:40:30   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:40:30   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:45:31   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:45:31   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:50:32   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:50:32   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:55:33   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:55:33   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 08:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:00:34   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:00:34   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:05:37   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:05:37   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:10:38   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:10:38   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:15:39   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:15:39   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:20:40   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:20:40   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:25:41   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:25:41   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:30:44   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:30:44   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:35:50   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:35:50   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:40:51   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:40:51   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:45:52   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:45:52   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:50:53   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:50:53   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:55:55   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:55:55   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 09:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:00:56   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:00:56   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:05:57   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:05:57   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:10:58   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:10:58   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:15:59   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:15:59   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:26:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:26:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:31:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:31:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:36:04   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:36:04   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:41:05   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:41:05   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:46:07   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:46:07   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:51:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:51:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:56:09   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:56:09   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 10:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:01:10   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:01:10   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:06:11   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:06:11   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:11:12   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:11:12   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:16:16   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:16:16   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:21:17   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:21:17   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:26:24   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:26:24   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:31:25   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:31:25   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:36:26   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:36:26   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:41:27   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:41:27   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:46:28   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:46:28   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:51:29   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:51:29   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:56:30   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:56:30   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 11:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:01:32   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:01:32   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:06:34   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:06:34   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:11:36   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:11:36   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:16:52   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:16:52   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:21:53   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:21:53   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:26:55   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:26:55   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:31:56   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:31:56   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:42:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:42:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:47:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:47:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:52:04   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:52:04   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:57:05   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:57:05   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 12:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:02:06   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:02:06   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:07:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:07:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:12:09   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:12:09   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:17:11   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:17:11   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:22:13   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:22:13   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:27:14   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:27:14   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:32:15   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:32:15   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:37:16   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:37:16   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:42:17   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:42:17   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:47:18   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:47:18   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:52:19   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:52:19   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:57:21   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:57:21   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 13:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:02:22   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:02:22   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:07:23   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:07:23   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:12:25   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:12:25   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:17:26   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:17:26   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:22:50   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:22:50   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:27:54   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:27:54   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:32:55   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:32:55   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:37:57   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:37:57   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:42:58   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:42:58   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:47:59   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:47:59   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:58:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:58:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 14:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:03:03   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:03:03   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:08:05   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:08:05   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:13:06   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:13:06   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:18:07   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:18:07   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:23:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:23:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:28:09   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:28:09   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:33:10   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:33:10   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:38:11   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:38:11   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:43:12   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:43:12   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:48:13   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:48:13   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:53:14   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:53:14   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:58:16   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:58:16   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 15:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:03:17   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:03:17   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:08:18   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:08:18   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:13:19   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:13:19   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:18:20   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:18:20   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:23:21   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:23:21   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:28:22   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:28:22   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:33:23   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:33:23   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:38:24   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:38:24   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:43:25   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:43:25   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:48:26   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:48:26   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:53:27   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:53:27   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:58:28   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:58:28   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 16:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:03:29   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:03:29   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:08:30   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:08:30   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:13:31   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:13:31   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:18:32   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:18:32   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:23:33   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:23:33   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:28:34   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:28:34   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:33:35   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:33:35   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:38:36   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:38:36   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:43:41   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:43:41   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:48:42   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:48:42   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:53:43   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:53:43   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:58:44   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:58:44   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 17:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:03:46   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:03:46   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:08:47   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:08:47   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:13:48   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:13:48   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:18:49   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:18:49   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:23:50   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:23:50   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:28:51   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:28:51   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:33:52   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:33:52   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:38:53   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:38:53   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:49:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:49:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:54:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:54:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:59:03   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 18:59:03   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:04:04   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:04:04   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:09:06   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:09:06   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:14:08   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:14:08   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:19:09   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:19:09   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:24:10   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:24:10   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:29:11   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:29:11   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:34:12   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:34:12   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:39:13   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:39:13   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:44:14   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:44:14   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:49:15   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:49:15   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:54:16   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:54:16   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:59:17   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 19:59:17   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:04:20   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:04:20   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:09:21   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:09:21   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:14:23   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:14:23   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:19:24   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:19:24   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:24:27   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:24:27   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:29:28   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:29:28   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:34:29   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:34:29   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:39:30   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:39:30   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:44:31   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:44:31   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:49:33   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:49:33   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:54:37   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:54:37   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:59:38   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 20:59:38   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:04:44   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:04:44   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:09:46   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:09:46   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:14:50   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:14:50   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:19:51   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:19:51   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:24:53   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:24:53   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:29:54   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:29:54   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:34:55   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:34:55   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:39:56   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:39:56   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:50:01   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:50:01   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:55:02   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:55:02   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 21:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 22:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:00:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:00:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:01:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:01:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:02:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:02:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:03:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:03:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:04:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:04:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:05:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:05:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:06:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:06:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:07:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:07:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:08:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:08:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:09:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:09:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:10:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:10:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:11:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:11:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:12:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:12:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:13:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:13:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:14:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:14:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:15:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:15:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:16:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:16:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:17:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:17:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:18:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:18:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:19:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:19:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:20:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:20:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:21:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:21:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:22:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:22:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:23:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:23:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:24:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:24:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:25:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:25:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:26:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:26:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:27:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:27:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:28:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:28:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:29:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:29:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:30:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:30:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:31:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:31:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:32:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:32:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:33:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:33:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:34:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:34:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:35:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:35:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:36:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:36:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:37:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:37:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:38:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:38:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:39:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:39:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:40:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:40:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:41:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:41:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:42:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:42:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:43:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:43:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:44:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:44:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:45:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:45:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:46:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:46:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:47:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:47:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:48:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:48:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:49:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:49:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:50:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:50:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:51:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:51:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:52:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:52:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:53:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:53:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:54:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:54:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:55:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:55:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:56:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:56:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:57:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:57:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:58:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:58:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:59:00   === Identifying Major Levels ===
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:59:00   Support levels: 4 Resistance levels: 4
+2025.07.21 14:50:09.912	Core 1	final balance 10000.00 USD
+2025.07.21 14:50:09.912	Core 1	2025.07.18 23:59:00   EA terminated. Reason: 1
+2025.07.21 14:50:09.912	Core 1	GBPUSD.a,M5: 727731 ticks, 1439 bars generated. Environment synchronized in 0:00:00.038. Test passed in 0:00:03.210 (including ticks preprocessing 0:00:00.062).
+2025.07.21 14:50:09.912	Core 1	GBPUSD.a,M5: total time from login to stop testing 0:00:03.248 (including 0:00:00.038 for history data synchronization)
+2025.07.21 14:50:09.912	Core 1	136 Mb memory used including 7 Mb of history data, 64 Mb of tick data
+2025.07.21 14:50:09.912	Core 1	log file "C:\Users\astra\AppData\Roaming\MetaQuotes\Tester\73B7A2420D6397DFF9014A20F1201F97\Agent-127.0.0.1-3000\logs\20250721.log" written
+2025.07.21 14:50:09.939	Core 1	connection closed
+
 
 ---
 ## BT-July-20-EURUSD-Test1
